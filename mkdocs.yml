@@ -1,6 +1,10 @@
-site_name: Plant Epidemics
+site_name: Epidemiology and Modelling, University of Cambridge
 theme: readthedocs
 
-pages:
+nav:
 - Home: index.md
-- Cassava Brown Streak Disease: cbsd.md
+- Research: 
+  - 'Overview': research/overview.md
+- Lab members: people.md
+- News: news.md
+
