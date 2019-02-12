@@ -72,9 +72,9 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 **Postdoc**
 
-![](images/people/ruairi-donnelly.jpg)
+![](images/people/adam-hall.jpg)
 
-- [rd501@cam.ac.uk](mailto:rd501@cam.ac.uk)
+- [ajh221@cam.ac.uk](mailto:ajh221@cam.ac.uk)
 
 ---
 

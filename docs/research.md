@@ -21,6 +21,7 @@ Our research focusses on predicting future spread and optimal management strateg
 - Dr Rich Stutt
 - Dr Anna Szyniszewska
 - Alex Ferris
+- Professor Chris Gilligan
 
 ## Wheat Stem Rust
 
@@ -38,6 +39,8 @@ Our research focusses on predicting future spread and optimal management strateg
 - Dr James Cox
 - Dr Clare Allen
 - Dr Rich Stutt
+- Dr Viet Nguyen
+- Professor Chris Gilligan
 
 ## DEFRA Quantitative Modelling
 
@@ -63,6 +66,8 @@ Our research focusses on predicting future spread and optimal management strateg
 - Dr Ciara Dangerfield
 - Dr Matt Castle
 - Dr Andrew Craig
+- Dr Yevhen Suprunenko
+- Professor Chris Gilligan
 
 ## Citrus Huanglongbing
 
@@ -72,6 +77,7 @@ Our research focusses on predicting future spread and optimal management strateg
 
 - Dr Rich Stutt
 - Dr Viet Nguyen
+- Professor Chris Gilligan
 
 ## Banana Bunchy Top Virus
 
@@ -82,19 +88,21 @@ Our research focusses on predicting future spread and optimal management strateg
 ### Project members
 
 - Dr Hola Adrakey
+- Professor Chris Gilligan
 
-## Plant growth dynamics
+## Crop growth dynamics
 
 ### Project members
 
 - Dr Adam Hall
-
+- Professor Chris Gilligan
 
 ## Theoretical vector dynamics
 
 ### Project members
 
 - Dr Ruairi Donnelly
+- Professor Chris Gilligan
 
 ## Computing
 
@@ -110,6 +118,6 @@ Our research focusses on predicting future spread and optimal management strateg
 - Dr Adam Hall
 - Lawrence Bower
 - Dr Eleftherios Avramidis
-
+- Professor Chris Gilligan
 
 
