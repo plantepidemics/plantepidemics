@@ -3,8 +3,8 @@ theme: readthedocs
 
 nav:
 - Home: index.md
-- Research: 
-  - 'Overview': research/overview.md
+- Research: research.md
+- Interactive projects: interactive.md
 - Lab members: people.md
 - News: news.md
 

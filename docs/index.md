@@ -7,9 +7,11 @@ We develop epidemiological models to predict the spread of plant disease epidemi
 </video>
 *Simulated spread of CBSD from Cameroon to Nigeria. Preliminary results.*
 
-Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income.
+# [Research](research.md)
 
-**For the latest list of our publications, please [visit Google Scholar.](https://scholar.google.co.uk/citations?hl=en&user=GriJOGgAAAAJ&view_op=list_works&sortby=pubdate)**
+Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income. 
+
+**For details of our research by theme, please [click here](research.md)**
 
 # About us
 
@@ -17,7 +19,8 @@ This website is a repository for the research, predictions, and management simul
 
 # Contact us
 
-- Professor Chris Gilligan: [cag1@cam.ac.uk](mailto:cag1@cam.ac.uk)
+- Professor Chris Gilligan (head of group): [cag1@cam.ac.uk](mailto:cag1@cam.ac.uk)
+- Sally Hames (group administrator): [sah57@cam.ac.uk](mailto:sah57@cam.ac.uk)
 
 Location of the Department of Plant Sciences, University of Cambridge:
 

@@ -2,6 +2,8 @@
 
 ![](images/people/team.jpg)
 
+![](images/people/team_2.jpg)
+
 ## Current Members
 
 ### Professor Chris Gilligan
@@ -172,3 +174,4 @@ I graduated with a degree in pure Mathematics from the University of York (1992)
 
 - Dr Ciera Dangerfield
 - Dr Clare Allen
+- Dr Eleftherios Avramidis
