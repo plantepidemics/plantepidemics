@@ -4,7 +4,8 @@ theme: readthedocs
 nav:
 - Home: index.md
 - Research: research.md
+# - Publications: publications.md
 - Interactive projects: interactive.md
 - Lab members: people.md
-# - News: news.md
+- News: news.md
 
