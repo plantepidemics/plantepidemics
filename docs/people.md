@@ -27,7 +27,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 **Postdoc**
 
 
-![](images/people/hola-adrakey.jpg)
+<img src="../images/people/hola-adrakey.jpg" width="100"/>
 
 - [ha411@cam.ac.uk](mailto:ha411@cam.ac.uk)
 
@@ -39,11 +39,13 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 ### Lawrence Bower
 
-**Front End Developer**
+**Scientific IT Developer**
 
-![](images/people/lawrence-bower.jpg)
+<img src="../images/people/lawrence-bower.jpg" width="100"/>
 
 - [lb584@cam.ac.uk](mailto:lb584@cam.ac.uk)
+
+Scientific programming support. Pipelines, HPC, plotting, user interfaces.
 
 ---
 
@@ -51,7 +53,7 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 **Postdoc**
 
-![](images/people/ruairi-donnelly.jpg)
+<img src="../images/people/ruairi-donnelly.jpg" width="100"/>
 
 - [rd501@cam.ac.uk](mailto:rd501@cam.ac.uk)
 
@@ -61,28 +63,18 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 **PhD Student**
 
-![](images/people/david-godding.jpg)
+<img src="../images/people/david-godding.jpg" width="100"/>
 
 - [dsg38@cam.ac.uk](mailto:dsg38@cam.ac.uk)
 
 ---
 
 
-### Dr Adam Hall
-
-**Postdoc**
-
-![](images/people/adam-hall.jpg)
-
-- [ajh221@cam.ac.uk](mailto:ajh221@cam.ac.uk)
-
----
-
 ### Sally Hames
 
 **Group Administrator and PA**
 
-![](images/people/sally-hames.jpg)
+<img src="../images/people/sally-hames.jpg" width="100"/>
 
 - [sah57@cam.ac.uk](mailto:sah57@cam.ac.uk)
 
@@ -93,20 +85,43 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 **Postdoc**
 
-![](images/people/marcel-meyer.jpg)
+<img src="../images/people/marcel-meyer.jpg" width="100"/>
 
 - [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
 
 
 ---
 
-### Dr Viet Nguyen
+### Dr Tamas Mona
 
 **Postdoc**
 
-![](images/people/viet-nguyen.jpg)
+<img src="../images/people/mona-tamas.jpg" width="100"/>
 
-- [van25@cam.ac.uk](mailto:van25@cam.ac.uk)
+- [tm689@cam.ac.uk](mailto:tm689@cam.ac.uk)
+
+
+---
+
+### Dr Renata Retkute
+
+**Postdoc**
+
+<img src="../images/people/retkute-renata.png" width="100"/>
+
+- [rr614@cam.ac.uk](mailto:rr614@cam.ac.uk)
+
+
+---
+
+
+### Dr Jacob Smith
+
+**Postdoc**
+
+<img src="../images/people/jws-2018.jpg" width="100"/>
+
+- [jws52@cam.ac.uk](mailto:jws52@cam.ac.uk)
 
 
 ---
@@ -115,7 +130,7 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 **Postdoc**
 
-![](images/people/yevhen-suprunenko.jpg)
+<img src="../images/people/yevhen-suprunenko.jpg" width="100"/>
 
 - [ys526@cam.ac.uk](mailto:ys526@cam.ac.uk)
 
@@ -130,7 +145,7 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 **Postdoc**
 
-![](images/people/rich-stutt.jpg)
+<img src="../images/people/rich-stutt.jpg" width="100"/>
 
 - [rs481@cam.ac.uk](mailto:rs481@cam.ac.uk)
 
@@ -140,7 +155,7 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 **Postdoc**
 
-<img src="../images/people/anna-szyniszewska.jpg" width="200"/>
+<img src="../images/people/anna-szyniszewska.jpg" width="100"/>
 
 - [ams293@cam.ac.uk](mailto:ams293@cam.ac.uk)
 
@@ -151,7 +166,7 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 **Postdoc**
 
-![](images/people/cerian-webb.jpg)
+<img src="../images/people/cerian-webb.jpg" width="100"/>
 
 - [crw1005@cam.ac.uk](mailto:crw1005@cam.ac.uk)
 
@@ -172,6 +187,8 @@ I graduated with a degree in pure Mathematics from the University of York (1992)
 
 ## Former Members
 
-- Dr Ciera Dangerfield
+- Dr Ciara Dangerfield
 - Dr Clare Allen
 - Dr Eleftherios Avramidis
+- Dr Adam Hall
+- Dr Viet Nguyen
