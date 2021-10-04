@@ -22,21 +22,6 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Hola Adrakey
-
-**Postdoc**
-
-
-<img src="../images/people/hola-adrakey.jpg" width="100"/>
-
-- [ha411@cam.ac.uk](mailto:ha411@cam.ac.uk)
-
-Following the completion of my Master (Maitrise) in Mathematics from Lome in 2009, I worked briefly as a maths teacher in Lome before securing a scholarship to study mathematical sciences at AIMS (African Institute for Mathematical Sciences) in Cape Town (South Africa) in 2011. After completing this in 2012, I had an opportunity to begin a Ph.D. in Statistics at Heriot-Watt University (Edinburgh) with Gavin Gibson and George Streftaris titled "Control and Surveillance of Partially Observed Stochastic Epidemics in a Bayesian Framework " which is shortlisted for the Macfarlane Prize. Currently, I hold a research associate post in the Epidemiology and Modelling group at Cambridge University (UK).
-
-My research interests lie in developing Bayesian methods to understand the dynamics of epidemic processes to provide insight in estimating disease burden. I am also interested in designing optimal control strategies so that they provide the greatest benefits in terms of disease reduction and developing new statistical tools to determine the most efficient ways of measuring their impact.
-
----
-
 ### Lawrence Bower
 
 **Scientific IT Developer**
@@ -45,7 +30,7 @@ My research interests lie in developing Bayesian methods to understand the dynam
 
 - [lb584@cam.ac.uk](mailto:lb584@cam.ac.uk)
 
-Scientific programming support. Pipelines, HPC, plotting, user interfaces. Test
+Scientific programming support. Pipelines, HPC, plotting, user interfaces.
 
 ---
 
@@ -56,6 +41,10 @@ Scientific programming support. Pipelines, HPC, plotting, user interfaces. Test
 <img src="../images/people/ruairi-donnelly.jpg" width="100"/>
 
 - [rd501@cam.ac.uk](mailto:rd501@cam.ac.uk)
+
+My research interests lie in ecology, epidemiology and evolution. At present I study the dynamics of a number of plant arboviruses. These include those that are "non-persistently" transmitted by aphids, as well as several important viruses of cassava that are transmitted by whitefly (cassava mosaic virus, cassava brown streak virus). I collaborate on empirical and modelling research with colleagues in the molecular plant pathology group of Prof. John Carr (Plant Sciences, Cambridge), and on field experiments in East Africa with colleagues at BecA ILRI (Nairobi).
+
+
 
 ---
 
@@ -80,18 +69,6 @@ Scientific programming support. Pipelines, HPC, plotting, user interfaces. Test
 
 ---
 
-
-### Dr Marcel Meyer
-
-**Postdoc**
-
-<img src="../images/people/marcel-meyer.jpg" width="100"/>
-
-- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
-
-
----
-
 ### Dr Tamas Mona
 
 **Postdoc**
@@ -111,6 +88,7 @@ Scientific programming support. Pipelines, HPC, plotting, user interfaces. Test
 
 - [rr614@cam.ac.uk](mailto:rr614@cam.ac.uk)
 
+My research has focused on modelling and parametrisation of biological systems at different spatial and temporal scales, based on the experimental and observed data.
 
 ---
 
@@ -149,6 +127,14 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 - [rs481@cam.ac.uk](mailto:rs481@cam.ac.uk)
 
+My research is focused on large scale predictions for disease spread and management.
+
+Current Projects
+
+My current projects involve modelling the spread of the Ramorum disease epidemic (also known as Sudden Oak Death, caused by P. ramorum) in the UK, working with regulators to provide outputs including predictions of disease spread and the effect of management strategies. I am also involved in predicting the potential for future spread of Sudden Oak Death on the east coast of the USA, and looking at the effects of spread of citrus diseases at the state scale in Florida.
+
+I am part of the production and deployment of a web based interactive utility to demonstrate the effect of control in realistic landscapes and additionally the development of a generic computational framework for stochastic simulation of spatial models of epidemics and developing a flexible, computationally-efficient suite of models for the analysis of disease spread and control in heterogeneous environments.
+
 ---
 
 ### Dr Anna Szyniszewska
@@ -159,6 +145,8 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 - [ams293@cam.ac.uk](mailto:ams293@cam.ac.uk)
 
+I have a background in spatial analysis and apply my expertise in a range of topics - in particular those related to agriculture. 
+Currently I am working on modeling spatial distribution of cassava, designing sampling strategies for disease detection and monitoring prevalence and spread of cassava pathogens.
 ---
 
 
@@ -166,14 +154,46 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 **Postdoc**
 
-<img src="../images/people/cerian-webb.jpg" width="100"/>
+<img src="../images/people/CerianWebb_2.jpg" width="150"/>
 
 - [crw1005@cam.ac.uk](mailto:crw1005@cam.ac.uk)
+- [ORCHID](https://orcid.org/0000-0002-0640-3666)
 
-I graduated with a degree in pure Mathematics from the University of York (1992). This was followed by an MSc in Mathematical Biology from the University of Dundee (1993) led by Professor Brian Sleeman. In1997 I completed a PhD at the Department of Plant Sciences, University of Cambridge, modelling crop growth and disease dynamics under the supervision of Professor Chris Gilligan and Dr Rik Werker. I then worked at VLA-Weybridge where I developed models to investigate the dynamics of scrapie and the likely efficacy of control policies. In 2000 I returned to Cambridge where I took up a postdoctoral position in the Department of Veterinary Medicine modelling farm animal diseases. I currently lecture on the part IA Mathematical Biology course at the University of Cambridge and on the Wellcome Trust 'Mathematical Models for Infectious Disease Dynamics' course.
+I am a Mathematical Epidemiologist with a background in both plant and animal systems. I received a degree in Pure Mathematics from the University of York (1992) an MSc in Mathematical Biology from the University of Dundee (1993) and a PhD modelling crop growth and disease dynamics from the Department of Plant Sciences, University of Cambridge under the supervision of Professor Chris Gilligan and Dr Rik Werker. After completing my PhD I joined the veterinary epidemiology group at VLA-Weybridge where I developed models to investigate the dynamics of scrapie and likely efficacy of control policies. I have contributed to disease modelling internationally through involvement in an EU transmissible spongiform encephalopathies (TSEs) project and collaborations with Massey University, New Zealand. In 2000 I moved back to the University of Cambridge, although this time to the Vet School, as the Kirsten Rausing Research Fellow which enabled me to pursue more theoretical work investigating the role of animal movement networks in determining the dynamics of farm animal disease. 
+
+Having taken a break from research (but not from lecturing and teaching) while my daughter went through primary school, I have found myself back in Plant Sciences where I work on mathematical models for a range of tree pests and pathogens. 
+
+In addition to my research role, I lecture for the Part 1A Mathematical Biology course and am a lecturer on the Wellcome Trust 'Mathematical Models for Infectious Disease Dynamics' course. I regularly deliver courses on MATLAB for Biologists and have recently co-authored the textbook [“Introduction to MATLAB for Biologists”.](https://link.springer.com/book/10.1007/978-3-030-21337-4) 
+
+As well as my research position in this group I am the Associate Lecturer in Mathematical Biology for Newnham College, Cambridge.
 
 
+## Collaborators
 
+---
+
+### Dr Hola Adrakey
+
+**Postdoc**
+
+
+<img src="../images/people/hola-adrakey.jpg" width="100"/>
+
+- [ha411@cam.ac.uk](mailto:ha411@cam.ac.uk)
+
+Following the completion of my Master (Maitrise) in Mathematics from Lome in 2009, I worked briefly as a maths teacher in Lome before securing a scholarship to study mathematical sciences at AIMS (African Institute for Mathematical Sciences) in Cape Town (South Africa) in 2011. After completing this in 2012, I had an opportunity to begin a Ph.D. in Statistics at Heriot-Watt University (Edinburgh) with Gavin Gibson and George Streftaris titled "Control and Surveillance of Partially Observed Stochastic Epidemics in a Bayesian Framework " which is shortlisted for the Macfarlane Prize. Currently, I hold a research associate post in the Epidemiology and Modelling group at Cambridge University (UK).
+
+My research interests lie in developing Bayesian methods to understand the dynamics of epidemic processes to provide insight in estimating disease burden. I am also interested in designing optimal control strategies so that they provide the greatest benefits in terms of disease reduction and developing new statistical tools to determine the most efficient ways of measuring their impact.
+
+---
+
+### Dr Marcel Meyer
+
+**Postdoc**
+
+<img src="../images/people/marcel-meyer.jpg" width="100"/>
+
+- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
 ---
 
 
