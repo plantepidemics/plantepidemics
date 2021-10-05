@@ -22,6 +22,19 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
+### Dr Daniel Bonnery
+
+**Postdoc**
+
+<img src="../images/people/bonnery-daniel.jpg" width="100"/>
+
+- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0001-8582-7856)
+
+I am an "agrégé de mathématiques" and PhD in Statistics and Econometry initially trained as an "attaché de l'Insee". I worked as a survey statistician in different national statistical agencies (Insee, French Ministry of Agriculture, U.S. Census Bureau) and as a researcher in the academia: Ensai, University of Toulouse 1 Capitole, Joint Program in Survey Methodology at the University of Maryland, and now in the University of Cambridge. My area of research is inference from complex surveys.
+
+---
+
 ### Lawrence Bower
 
 **Scientific IT Developer**
@@ -41,6 +54,8 @@ Scientific programming support. Pipelines, HPC, plotting, user interfaces.
 <img src="../images/people/ruairi-donnelly.jpg" width="100"/>
 
 - [rd501@cam.ac.uk](mailto:rd501@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0001-7642-0317)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=PNMsCy0AAAAJ)
 
 My research interests lie in ecology, epidemiology and evolution. At present I study the dynamics of a number of plant arboviruses. These include those that are "non-persistently" transmitted by aphids, as well as several important viruses of cassava that are transmitted by whitefly (cassava mosaic virus, cassava brown streak virus). I collaborate on empirical and modelling research with colleagues in the molecular plant pathology group of Prof. John Carr (Plant Sciences, Cambridge), and on field experiments in East Africa with colleagues at BecA ILRI (Nairobi).
 
@@ -50,7 +65,7 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 
 ### David Godding
 
-**PhD Student**
+**Postdoc**
 
 <img src="../images/people/david-godding.jpg" width="100"/>
 
@@ -76,7 +91,9 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 <img src="../images/people/mona-tamas.jpg" width="100"/>
 
 - [tm689@cam.ac.uk](mailto:tm689@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0002-5797-1815)
 
+Working as a weather modeller in the wheat rust forecasting project which is a collaboration between the Epidemiology and Modelling Group at the University of Cambridge, the UK Met Office, CIMMYT (International Maize and Wheat Improvement Centre) and the Ethiopian Institute of Agricultural Research. The project uses NAME to forecast the spread of these epidemics of wheat rust in near real-time to enable growers to take preventative action. The project grew from an initial analysis of pathways for long-distance dispersal of wheat rust spores extending from Southern and East Africa through the Middle East, West and South Asia.
 
 ---
 
@@ -87,6 +104,7 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 <img src="../images/people/retkute-renata.png" width="100"/>
 
 - [rr614@cam.ac.uk](mailto:rr614@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0002-3877-6440)
 
 My research has focused on modelling and parametrisation of biological systems at different spatial and temporal scales, based on the experimental and observed data.
 
@@ -100,7 +118,9 @@ My research has focused on modelling and parametrisation of biological systems a
 <img src="../images/people/jws-2018.jpg" width="100"/>
 
 - [jws52@cam.ac.uk](mailto:jws52@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0002-0079-4045)
 
+With a background in climate science, I want to improve understanding of plant diseases dispersed by the wind. Wheat crops often suffer from wheat rust, a family of aerially dispersed fungal pathogens. Similarly, wheat blast is an emerging threat. Key to mitigating their impacts is the research and development of models equipped with appropriate processes, including Lagrangian dispersal models and full-landscape epidemiological models. In collaboration with others, my research brings these aspects together.
 
 ---
 
@@ -126,6 +146,7 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 <img src="../images/people/rich-stutt.jpg" width="100"/>
 
 - [rs481@cam.ac.uk](mailto:rs481@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0002-1765-2633)
 
 My research is focused on large scale predictions for disease spread and management.
 
@@ -157,7 +178,7 @@ Currently I am working on modeling spatial distribution of cassava, designing sa
 <img src="../images/people/CerianWebb_2.jpg" width="150"/>
 
 - [crw1005@cam.ac.uk](mailto:crw1005@cam.ac.uk)
-- [ORCHID](https://orcid.org/0000-0002-0640-3666)
+- [ORCID](https://orcid.org/0000-0002-0640-3666)
 
 I am a Mathematical Epidemiologist with a background in both plant and animal systems. I received a degree in Pure Mathematics from the University of York (1992) an MSc in Mathematical Biology from the University of Dundee (1993) and a PhD modelling crop growth and disease dynamics from the Department of Plant Sciences, University of Cambridge under the supervision of Professor Chris Gilligan and Dr Rik Werker. After completing my PhD I joined the veterinary epidemiology group at VLA-Weybridge where I developed models to investigate the dynamics of scrapie and likely efficacy of control policies. I have contributed to disease modelling internationally through involvement in an EU transmissible spongiform encephalopathies (TSEs) project and collaborations with Massey University, New Zealand. In 2000 I moved back to the University of Cambridge, although this time to the Vet School, as the Kirsten Rausing Research Fellow which enabled me to pursue more theoretical work investigating the role of animal movement networks in determining the dynamics of farm animal disease. 
 
@@ -194,9 +215,8 @@ My research interests lie in developing Bayesian methods to understand the dynam
 <img src="../images/people/marcel-meyer.jpg" width="100"/>
 
 - [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
+
 ---
-
-
 
 ## Visiting Researchers
 
