@@ -63,13 +63,16 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 
 ---
 
-### David Godding
+### Dr David Godding
 
 **Postdoc**
 
 <img src="../images/people/david-godding.jpg" width="100"/>
 
 - [dsg38@cam.ac.uk](mailto:dsg38@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0002-5224-2234)
+
+My research currently focuses on modelling the large-scale spatiotemporal spread of the cassava brown streak disease epidemic in sub-Saharan Africa, working closely with partners in the WAVE project spanning 10 countries in West and Central Africa. I previously co-founded a startup, where we developed and launched a digital marketplace for smallholder farmers in Colombia (https://soylisto.app/). I have a PhD in Epidemiology and Modelling from the University of Cambridge.
 
 ---
 

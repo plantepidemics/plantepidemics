@@ -35,11 +35,10 @@ Our research focusses on predicting future spread and optimal management strateg
 
 ### Project members
 
-- Dr Marcel Meyer
-- Dr James Cox
-- Dr Clare Allen
+- Dr Jake Smith
+- Dr Tamas Mona
+- Lawrence Bower
 - Dr Rich Stutt
-- Dr Viet Nguyen
 - Professor Chris Gilligan
 
 ## DEFRA Quantitative Modelling
@@ -63,9 +62,6 @@ Our research focusses on predicting future spread and optimal management strateg
 
 - Dr Rich Stutt
 - Dr Cerian Webb
-- Dr Ciara Dangerfield
-- Dr Matt Castle
-- Dr Andrew Craig
 - Dr Yevhen Suprunenko
 - Professor Chris Gilligan
 
@@ -76,7 +72,6 @@ Our research focusses on predicting future spread and optimal management strateg
 ### Project members
 
 - Dr Rich Stutt
-- Dr Viet Nguyen
 - Professor Chris Gilligan
 
 ## Banana Bunchy Top Virus
@@ -87,7 +82,7 @@ Our research focusses on predicting future spread and optimal management strateg
 
 ### Project members
 
-- Dr Hola Adrakey
+- Dr Renata Retkute
 - Professor Chris Gilligan
 
 ## Crop growth dynamics
@@ -107,17 +102,16 @@ Our research focusses on predicting future spread and optimal management strateg
 ## Computing
 
 - Spatially-explicit stochastic dynamic epidemiological simulations
-- Deal with large datasets
-- Over 200TB of storage
+- Dealing with large datasets
+- HPC computing
 - Environmental suitability calculation
+- Mapping
 - Fast simulations on large landscapes
 
 ### Project members
 
 - Dr Rich Stutt
-- Dr Adam Hall
 - Lawrence Bower
-- Dr Eleftherios Avramidis
 - Professor Chris Gilligan
 
 
