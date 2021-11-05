@@ -28,9 +28,6 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 <img src="../images/people/bonnery-daniel.jpg" width="100"/>
 
-- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
-- [ORCID](https://orcid.org/0000-0001-8582-7856)
-
 I am an "agrégé de mathématiques" and PhD in Statistics and Econometry initially trained as an "attaché de l'Insee". I worked as a survey statistician in different national statistical agencies (Insee, French Ministry of Agriculture, U.S. Census Bureau) and as a researcher in the academia: Ensai, University of Toulouse 1 Capitole, Joint Program in Survey Methodology at the University of Maryland, and now in the University of Cambridge. My area of research is inference from complex surveys.
 
 ---
@@ -60,23 +57,6 @@ Scientific programming support. Pipelines, HPC, plotting, user interfaces.
 My research interests lie in ecology, epidemiology and evolution. At present I study the dynamics of a number of plant arboviruses. These include those that are "non-persistently" transmitted by aphids, as well as several important viruses of cassava that are transmitted by whitefly (cassava mosaic virus, cassava brown streak virus). I collaborate on empirical and modelling research with colleagues in the molecular plant pathology group of Prof. John Carr (Plant Sciences, Cambridge), and on field experiments in East Africa with colleagues at BecA ILRI (Nairobi).
 
 
-
----
-
-### Dr David Godding
-
-**Postdoc**
-
-<img src="../images/people/david-godding.jpg" width="100"/>
-
-- [dsg38@cam.ac.uk](mailto:dsg38@cam.ac.uk)
-- [ORCID](https://orcid.org/0000-0002-5224-2234)
-
-My research currently focuses on modelling the large-scale spatiotemporal spread of the cassava brown streak disease epidemic in sub-Saharan Africa, working closely with partners in the WAVE project spanning 10 countries in West and Central Africa. I previously co-founded a startup, where we developed and launched a digital marketplace for smallholder farmers in Colombia (https://soylisto.app/). I have a PhD in Epidemiology and Modelling from the University of Cambridge.
-
----
-
-
 ### Sally Hames
 
 **Group Administrator and PA**
@@ -84,6 +64,15 @@ My research currently focuses on modelling the large-scale spatiotemporal spread
 <img src="../images/people/sally-hames.jpg" width="100"/>
 
 - [sah57@cam.ac.uk](mailto:sah57@cam.ac.uk)
+
+### Dr David Godding
+
+<img src="../images/people/david-godding.jpg" width="100"/>
+
+- [dsg38@cam.ac.uk](mailto:dsg38@cam.ac.uk)
+- [ORCID](https://orcid.org/0000-0002-5224-2234)
+
+My research currently focuses on modelling the large-scale spatiotemporal spread of the cassava brown streak disease epidemic in sub-Saharan Africa, working closely with partners in the WAVE project spanning 10 countries in West and Central Africa. I previously co-founded a startup, where we developed and launched a digital marketplace for smallholder farmers in Colombia (https://soylisto.app/). I have a PhD in Epidemiology and Modelling from the University of Cambridge.
 
 ---
 
@@ -178,7 +167,7 @@ Currently I am working on modeling spatial distribution of cassava, designing sa
 
 **Postdoc**
 
-<img src="../images/people/CerianWebb_2.jpg" width="150"/>
+<img src="../images/people/cerian-webb.jpg" width="100"/>
 
 - [crw1005@cam.ac.uk](mailto:crw1005@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-0640-3666)

@@ -25,13 +25,15 @@ Our research focusses on predicting future spread and optimal management strateg
 
 ## Wheat Stem Rust
 
-**Location: Ethiopia**
+**Location: Asia & East africa**
 
-<img src="../../images/wheat.png" width="300"/>
-
+<img src="../../images/deposition_southasia.png" width="600"/>
 
 - Ethiopia Early warning system
 - Long term wheat disease forecasting
+
+A daily, near real-time weeklong forecast of the spread of stem (Puccinia graminis), stripe
+(Puccinia striiformis), and leaf (Puccinia triticina)
 
 ### Project members
 
