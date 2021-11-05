@@ -37,11 +37,10 @@ A daily, near real-time weeklong forecast of the spread of stem (Puccinia gramin
 
 ### Project members
 
-- Dr Marcel Meyer
-- Dr James Cox
-- Dr Clare Allen
+- Dr Jake Smith
+- Dr Tamas Mona
+- Lawrence Bower
 - Dr Rich Stutt
-- Dr Viet Nguyen
 - Professor Chris Gilligan
 
 ## DEFRA Quantitative Modelling
@@ -65,9 +64,6 @@ A daily, near real-time weeklong forecast of the spread of stem (Puccinia gramin
 
 - Dr Rich Stutt
 - Dr Cerian Webb
-- Dr Ciara Dangerfield
-- Dr Matt Castle
-- Dr Andrew Craig
 - Dr Yevhen Suprunenko
 - Professor Chris Gilligan
 
@@ -78,7 +74,6 @@ A daily, near real-time weeklong forecast of the spread of stem (Puccinia gramin
 ### Project members
 
 - Dr Rich Stutt
-- Dr Viet Nguyen
 - Professor Chris Gilligan
 
 ## Banana Bunchy Top Virus
@@ -89,7 +84,7 @@ A daily, near real-time weeklong forecast of the spread of stem (Puccinia gramin
 
 ### Project members
 
-- Dr Hola Adrakey
+- Dr Renata Retkute
 - Professor Chris Gilligan
 
 ## Crop growth dynamics
@@ -109,17 +104,16 @@ A daily, near real-time weeklong forecast of the spread of stem (Puccinia gramin
 ## Computing
 
 - Spatially-explicit stochastic dynamic epidemiological simulations
-- Deal with large datasets
-- Over 200TB of storage
+- Dealing with large datasets
+- HPC computing
 - Environmental suitability calculation
+- Mapping
 - Fast simulations on large landscapes
 
 ### Project members
 
 - Dr Rich Stutt
-- Dr Adam Hall
 - Lawrence Bower
-- Dr Eleftherios Avramidis
 - Professor Chris Gilligan
 
 

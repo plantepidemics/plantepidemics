@@ -8,6 +8,7 @@
 
 - Dr Nik Cunniffe
 - Dr Rich Stutt
+- Lawrence Bower
 
 ## Phytofighter
 
@@ -22,9 +23,3 @@
 - Elliott Bussell
 - David Godding
 
-## Webidemics2
-
-**Under development**
-
-- Dr Rich Stutt
-- Lawrence Bower

@@ -1,6 +1,6 @@
 # Epidemiology and Modelling Group, <br>University of Cambridge
 
-We develop epidemiological models to predict the spread of plant disease epidemics and to identify and optimise economically and ecologically sustainable strategies for disease management.
+We develop epidemiological models to predict the spread of plant disease epidemics and to identify and optimise economically and ecologically sustainable strategies for disease management. See the [latest news](news.md) from our group.
 
 <video width="100%" controls>
 <source src="images/MOV_scenario_8_case_0_job0.mp4?dl=0" type="video/mp4">
