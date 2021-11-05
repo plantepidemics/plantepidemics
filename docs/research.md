@@ -41,7 +41,7 @@ Our research focusses on predicting future spread and optimal management strateg
 - Dr Rich Stutt
 - Professor Chris Gilligan
 
-## DEFRA Quantitative Modelling
+## Defra Plant Health Modelling
 
 **Location: UK**
 
@@ -50,12 +50,13 @@ Our research focusses on predicting future spread and optimal management strateg
 
 ### Pathosystems
 
-- Ramorum
-- Chalara
-- OPM
-- EAB
-- Gall Wasp
-- Sweet Chestnut blight
+- Emerald Ash Borer
+- Oak Processionary Moth
+- Phytophthora ramorum
+- Ash dieback 
+- Sweet Chestnut Blight
+- Oriental chestnut gall wasp
+- Ips typographus
 
 
 ### Project members
