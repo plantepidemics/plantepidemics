@@ -67,6 +67,8 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 
 ### Dr David Godding
 
+**Postdoc**
+
 <img src="../images/people/david-godding.jpg" width="100"/>
 
 - [dsg38@cam.ac.uk](mailto:dsg38@cam.ac.uk)
@@ -167,7 +169,7 @@ Currently I am working on modeling spatial distribution of cassava, designing sa
 
 **Postdoc**
 
-<img src="../images/people/cerian-webb.jpg" width="100"/>
+<img src="../images/people/CerianWebb.jpg" width="100"/>
 
 - [crw1005@cam.ac.uk](mailto:crw1005@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-0640-3666)
