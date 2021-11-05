@@ -23,17 +23,14 @@ Our research focusses on predicting future spread and optimal management strateg
 - Alex Ferris
 - Professor Chris Gilligan
 
-## Wheat Stem Rust
+## [Wheat Rust Early Warning System](research/wheat_rust.md)
 
 **Location: Asia & East africa**
 
 <img src="../../images/deposition_southasia.png" width="600"/>
 
-- Ethiopia Early warning system
-- Long term wheat disease forecasting
-
 A daily, near real-time weeklong forecast of the spread of stem (Puccinia graminis), stripe
-(Puccinia striiformis), and leaf (Puccinia triticina)
+(Puccinia striiformis), and leaf (Puccinia triticina). [Read more](research/wheat_rust.md).
 
 ### Project members
 
