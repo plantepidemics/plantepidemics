@@ -29,7 +29,7 @@ Our research focusses on predicting future spread and optimal management strateg
 
 <img src="../../images/deposition_southasia.png" width="600"/>
 
-A daily, near real-time weeklong forecast of the spread of stem (Puccinia graminis), stripe
+A daily, near real-time week long forecast of the spread of stem (Puccinia graminis), stripe
 (Puccinia striiformis), and leaf (Puccinia triticina). [Read more](research/wheat_rust.md).
 
 ### Project members
