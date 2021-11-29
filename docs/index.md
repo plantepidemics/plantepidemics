@@ -2,16 +2,14 @@
 
 We develop epidemiological models to predict the spread of plant disease epidemics and to identify and optimise economically and ecologically sustainable strategies for disease management. See the [latest news](news.md) from our group.
 
+Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income. 
+
+**For details of our research by theme, please [click here](research.md)**
+
 <video width="100%" controls>
 <source src="images/MOV_scenario_8_case_0_job0.mp4?dl=0" type="video/mp4">
 </video>
 *Simulated spread of CBSD from Cameroon to Nigeria. Preliminary results.*
-
-# [Research](research.md)
-
-Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income. 
-
-**For details of our research by theme, please [click here](research.md)**
 
 # About us
 

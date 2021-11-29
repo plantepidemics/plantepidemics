@@ -1,10 +1,11 @@
+extra_css: [extra.css]
+
 site_name: Epidemiology and Modelling, University of Cambridge
 theme: readthedocs
 
 nav:
 - Home: index.md
 - Research: research.md
-# - Publications: publications.md
 - Interactive projects: interactive.md
 - Lab members: people.md
 - News: news.md
