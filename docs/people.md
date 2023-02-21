@@ -1,9 +1,5 @@
 # Lab members
 
-![](images/people/team.jpg)
-
-![](images/people/team_2.jpg)
-
 ## Current Members
 
 ### Professor Chris Gilligan
@@ -19,16 +15,6 @@ Current research is focused on establishing and testing a theoretical framework 
 The research involves a synthesis of epidemiological theory, population and evolutionary genetics, landscape ecology and economic modelling, drawing upon methods from statistical physics and Bayesian statistical inference, supported by a complementary experimental programme involving laboratory microcosms and collation of extensive field and regional data-sets to test the models.
 
 For more details, [please visit the departmental website.](https://www.plantsci.cam.ac.uk/directory/gilligan-chris)
-
----
-
-### Dr Daniel Bonnery
-
-**Postdoc**
-
-<img src="../images/people/bonnery-daniel.jpg" width="100"/>
-
-I am an "agrégé de mathématiques" and PhD in Statistics and Econometry initially trained as an "attaché de l'Insee". I worked as a survey statistician in different national statistical agencies (Insee, French Ministry of Agriculture, U.S. Census Bureau) and as a researcher in the academia: Ensai, University of Toulouse 1 Capitole, Joint Program in Survey Methodology at the University of Maryland, and now in the University of Cambridge. My area of research is inference from complex surveys.
 
 ---
 
@@ -56,6 +42,7 @@ Scientific programming support. Pipelines, HPC, plotting, user interfaces.
 
 My research interests lie in ecology, epidemiology and evolution. At present I study the dynamics of a number of plant arboviruses. These include those that are "non-persistently" transmitted by aphids, as well as several important viruses of cassava that are transmitted by whitefly (cassava mosaic virus, cassava brown streak virus). I collaborate on empirical and modelling research with colleagues in the molecular plant pathology group of Prof. John Carr (Plant Sciences, Cambridge), and on field experiments in East Africa with colleagues at BecA ILRI (Nairobi).
 
+---
 
 ### Sally Hames
 
@@ -64,17 +51,6 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 <img src="../images/people/sally-hames.jpg" width="100"/>
 
 - [sah57@cam.ac.uk](mailto:sah57@cam.ac.uk)
-
-### Dr David Godding
-
-**Postdoc**
-
-<img src="../images/people/david-godding.jpg" width="100"/>
-
-- [dsg38@cam.ac.uk](mailto:dsg38@cam.ac.uk)
-- [ORCID](https://orcid.org/0000-0002-5224-2234)
-
-My research currently focuses on modelling the large-scale spatiotemporal spread of the cassava brown streak disease epidemic in sub-Saharan Africa, working closely with partners in the WAVE project spanning 10 countries in West and Central Africa. I previously co-founded a startup, where we developed and launched a digital marketplace for smallholder farmers in Colombia (https://soylisto.app/). I have a PhD in Epidemiology and Modelling from the University of Cambridge.
 
 ---
 
@@ -152,19 +128,6 @@ I am part of the production and deployment of a web based interactive utility to
 
 ---
 
-### Dr Anna Szyniszewska
-
-**Postdoc**
-
-<img src="../images/people/anna-szyniszewska.jpg" width="100"/>
-
-- [ams293@cam.ac.uk](mailto:ams293@cam.ac.uk)
-
-I have a background in spatial analysis and apply my expertise in a range of topics - in particular those related to agriculture. 
-Currently I am working on modeling spatial distribution of cassava, designing sampling strategies for disease detection and monitoring prevalence and spread of cassava pathogens.
----
-
-
 ### Dr Cerian Webb
 
 **Postdoc**
@@ -226,3 +189,6 @@ My research interests lie in developing Bayesian methods to understand the dynam
 - Dr Eleftherios Avramidis
 - Dr Adam Hall
 - Dr Viet Nguyen
+- Dr Anna Szyniszewska
+- Dr Daniel Bonnery
+- Dr David Godding
