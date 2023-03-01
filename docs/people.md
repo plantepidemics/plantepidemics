@@ -81,7 +81,7 @@ My research has focused on modelling and parametrisation of biological systems a
 ---
 ### Dr Alison Scott-Brown
 
-<img src="../images/people/retkute-renata.png" width="100"/>
+<img src="../images/people/alison_scott_brown.jpg" width="100"/>
 
 - [as3237@cam.ac.uk](mailto:as3237@cam.ac.uk)
 
