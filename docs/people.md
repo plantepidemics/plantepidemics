@@ -79,6 +79,16 @@ Working as a weather modeller in the wheat rust forecasting project which is a c
 My research has focused on modelling and parametrisation of biological systems at different spatial and temporal scales, based on the experimental and observed data.
 
 ---
+### Dr Alison Scott-Brown
+
+<img src="../images/people/retkute-renata.png" width="100"/>
+
+- [as3237@cam.ac.uk](mailto:as3237@cam.ac.uk)
+
+A current member of the Epidemiology and Modelling Group, promoting research impact with relevance to food security, plant biosecurity and biodiversity across regions in Sub-Saharan Africa, South Asia, Europe and UK. Additionally, collating science impact for an international food security programme, TIGR2ESS, across the six interdisciplinary flagship projects (India and UK).Research Interests
+Plant-insect interactions, using thrips as a model to unravel questions on host-plant selection, tolerance and resistance to invasive species. More recently focusing on mechanisms underpinning beneficial interactions (pollinating and predatory thrips), accumulating knowledge on benefits these bring in natural and agricultural settings.
+
+---
 
 
 ### Dr Jacob Smith
