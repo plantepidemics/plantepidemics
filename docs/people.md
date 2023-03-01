@@ -22,7 +22,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 **Scientific IT Developer**
 
-<img src="../images/people/lawrence-bower.jpg" width="100"/>
+<img src="../images/people/lawrence_bower2.jpg" width="100"/>
 
 - [lb584@cam.ac.uk](mailto:lb584@cam.ac.uk)
 
