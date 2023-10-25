@@ -26,7 +26,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 - [lb584@cam.ac.uk](mailto:lb584@cam.ac.uk)
 
-Providing scientific programming support for large-scale epidemiological forecasting programmes. Currently contributing to an on-going wheat rust collaborative project which provides current predictions for long-distance dispersal pathways of wheat rust spores across Africa, the Middle East and Asia. Areas of expertise include Pipelines, HPC, plotting and user interfaces.
+Providing s cientific programming support for large-scale epidemiological forecasting programmes. Currently contributing to an on-going wheat rust collaborative project which provides current predictions for long-distance dispersal pathways of wheat rust spores across Africa, the Middle East and Asia. Areas of expertise include Pipelines, HPC, plotting and user interfaces.
 
 ---
 
