@@ -8,16 +8,16 @@ Here is the schematic summary of the EWS components (see further details in [All
 
 <img src="../../images/EWS_flowchart_resized.PNG" alt="EWS flowchart"/>
 
-The modelling involves a combination of meteorological and epidemiological models with additional inputs from in-country surveillance coordinated by CIMMYT. The team in Cambridge is responsible for the development and maintenance of the modelling elements of the EWS, including the adaptation of a particle dispersal model (NAME) originally developed by the UK Met Office for rust spores. The UK Met Office also provides seven-day weather forecasts for the target countries to drive the models, giving farmers a three-week window to apply fungicides to prevent rust epidemics. The models are also being used pre-season assess risks from new races of wheat rust and to inform the selection of crop varieties likely to confer resistance.
+The modelling involves a combination of meteorological and epidemiological models with additional inputs from in-country surveillance coordinated by CIMMYT. The team in Cambridge is responsible for the development and maintenance of the modelling elements of the EWS, including the adaptation of a particle dispersal model (NAME) originally developed by the UK Met Office for rust spores. The UK Met Office also provides seven-day weather forecasts for the target countries to drive the models, giving farmers a three-week window to apply fungicides to prevent rust epidemics. The models are also being used pre-season to assess risks from new races of wheat rust and to inform the selection of crop varieties likely to confer resistance.
 
 [<img src="../../images/ews_compound.png" alt="EWS compound"/>](wheat_rust_resources.md)
 Example deposition (left column) and environmental suitability (right column) outputs of the model for the East Africa domain (upper row) and for the Ethiopia subdomain (lower row).
-
-**Description**
+Movie below includes the Epidemiological Model outputs for the Ethiopia subdomain.
 
 <video width="100%" controls>
 <source src="../../images/infection_ethiopia_stem_season.mp4?dl=0" type="video/mp4">
 </video>
+
 
 
 **Recent publications and presentations:**
