@@ -13,9 +13,9 @@ The modelling involves a combination of meteorological and epidemiological model
 [<img src="../../images/ews_compound.png" alt="EWS compound"/>](wheat_rust_resources.md)
 Example deposition (left column) and environmental suitability (right column) outputs of the model for the East Africa domain (upper row) and for the Ethiopia subdomain (lower row).
 
-<video width="100%" controls>
-<source src="../../images/infection_ethiopia_stem_season.mp4?dl=0" type="video/mp4">
-</video>
+[//]: # (<video width="100%" controls>)
+[//]: # (<source src="../../images/infection_ethiopia_stem_season.mp4?dl=0" type="video/mp4">)
+[//]: # (</video>)
 
 
 **Recent publications and presentations:**
