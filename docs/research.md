@@ -89,7 +89,6 @@ A daily, near real-time week long forecast of the spread of stem (Puccinia grami
 
 ### Project members
 
-- Dr Adam Hall
 - Professor Chris Gilligan
 
 ## Theoretical vector dynamics
