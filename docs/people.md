@@ -1,32 +1,22 @@
-# Lab members
-
 ## Current Members
 
 ### Professor Chris Gilligan
 
 **Head of group**
 
-![](images/people/chris-gilligan.jpg)
+[![](images/people/chris-gilligan.jpg)](https://www.plantsci.cam.ac.uk/staff/professor-chris-gilligan)
 
 - [cag1@cam.ac.uk](mailto:cag1@cam.ac.uk)
-
-Current research is focused on establishing and testing a theoretical framework that identifies the mechanisms that control invasion, persistence, scaling and variability of epidemics within changing agricultural and natural landscapes. Applications range from large-scale pandemics (sudden oak death, citrus canker, African cassava mosaic virus), through pesticide resistance and genetical control to biocontrol in sustainable agricultural systems, and to the design of intervention strategies for exotic pathogen threats to the UK.
-
-The research involves a synthesis of epidemiological theory, population and evolutionary genetics, landscape ecology and economic modelling, drawing upon methods from statistical physics and Bayesian statistical inference, supported by a complementary experimental programme involving laboratory microcosms and collation of extensive field and regional data-sets to test the models.
 
 For more details, [please visit the departmental website.](https://www.plantsci.cam.ac.uk/directory/gilligan-chris)
 
 ---
 
-### Lawrence Bower
+### [Lawrence Bower](https://www.plantsci.cam.ac.uk/directory/lawrence-bower)
 
 **Scientific IT Developer**
 
-<img src="../images/people/lawrence_bower2.jpg" width="100"/>
-
-- [lb584@cam.ac.uk](mailto:lb584@cam.ac.uk)
-
-Providing scientific programming support for large-scale epidemiological forecasting programmes. Currently contributing to an on-going wheat rust collaborative project which provides current predictions for long-distance dispersal pathways of wheat rust spores across Africa, the Middle East and Asia. Areas of expertise include Pipelines, HPC, plotting and user interfaces.
+[<img src="../images/people/lawrence_bower2.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/lawrence-bower)
 
 ---
 
@@ -34,13 +24,10 @@ Providing scientific programming support for large-scale epidemiological forecas
 
 **Postdoc**
 
-<img src="../images/people/ruairi-donnelly.jpg" width="100"/>
+[<img src="../images/people/ruairi-donnelly.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/ruairi-donnelly)
 
-- [rd501@cam.ac.uk](mailto:rd501@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0001-7642-0317)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=PNMsCy0AAAAJ)
-
-My research interests lie in ecology, epidemiology and evolution. At present I study the dynamics of a number of plant arboviruses. These include those that are "non-persistently" transmitted by aphids, as well as several important viruses of cassava that are transmitted by whitefly (cassava mosaic virus, cassava brown streak virus). I collaborate on empirical and modelling research with colleagues in the molecular plant pathology group of Prof. John Carr (Plant Sciences, Cambridge), and on field experiments in East Africa with colleagues at BecA ILRI (Nairobi).
 
 ---
 
@@ -48,9 +35,7 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 
 **Group Administrator and PA**
 
-<img src="../images/people/sally-hames.jpg" width="100"/>
-
-- [sah57@cam.ac.uk](mailto:sah57@cam.ac.uk)
+[<img src="../images/people/sally-hames.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/sally-hames)
 
 ---
 
@@ -58,12 +43,9 @@ My research interests lie in ecology, epidemiology and evolution. At present I s
 
 **Postdoc**
 
-<img src="../images/people/mona-tamas.jpg" width="100"/>
+[<img src="../images/people/mona-tamas.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/tamas-mona)
 
-- [tm689@cam.ac.uk](mailto:tm689@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-5797-1815)
-
-Working as a weather modeller in the wheat rust forecasting project which is a collaboration between the Epidemiology and Modelling Group at the University of Cambridge, the UK Met Office, CIMMYT (International Maize and Wheat Improvement Centre) and the Ethiopian Institute of Agricultural Research. The project uses NAME to forecast the spread of these epidemics of wheat rust in near real-time to enable growers to take preventative action. The project grew from an initial analysis of pathways for long-distance dispersal of wheat rust spores extending from Southern and East Africa through the Middle East, West and South Asia.
 
 ---
 
@@ -71,22 +53,14 @@ Working as a weather modeller in the wheat rust forecasting project which is a c
 
 **Postdoc**
 
-<img src="../images/people/retkute-renata.png" width="100"/>
+[<img src="../images/people/retkute-renata.png" width="100"/>](https://www.plantsci.cam.ac.uk/directory/renata-retkute)
 
-- [rr614@cam.ac.uk](mailto:rr614@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-3877-6440)
-
-My research has focused on modelling and parametrisation of biological systems at different spatial and temporal scales, based on the experimental and observed data.
 
 ---
 ### Dr Alison Scott-Brown
 
-<img src="../images/people/alison_scott_brown.jpg" width="100"/>
-
-- [as3237@cam.ac.uk](mailto:as3237@cam.ac.uk)
-
-A current member of the Epidemiology and Modelling Group, promoting research impact with relevance to food security, plant biosecurity and biodiversity across regions in Sub-Saharan Africa, South Asia, Europe and UK. Additionally, collating science impact for an international food security programme, TIGR2ESS, across the six interdisciplinary flagship projects (India and UK).Research Interests
-Plant-insect interactions, using thrips as a model to unravel questions on host-plant selection, tolerance and resistance to invasive species. More recently focusing on mechanisms underpinning beneficial interactions (pollinating and predatory thrips), accumulating knowledge on benefits these bring in natural and agricultural settings.
+[<img src="../images/people/alison_scott_brown.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)
 
 ---
 
@@ -95,12 +69,9 @@ Plant-insect interactions, using thrips as a model to unravel questions on host-
 
 **Postdoc**
 
-<img src="../images/people/jws-2018.jpg" width="100"/>
+[<img src="../images/people/jws-2018.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/jacob-smith)
 
-- [jws52@cam.ac.uk](mailto:jws52@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-0079-4045)
-
-With a background in climate science, I want to improve understanding of plant diseases dispersed by the wind. Wheat crops often suffer from wheat rust, a family of aerially dispersed fungal pathogens. Similarly, wheat blast is an emerging threat. Key to mitigating their impacts is the research and development of models equipped with appropriate processes, including Lagrangian dispersal models and full-landscape epidemiological models. In collaboration with others, my research brings these aspects together.
 
 ---
 
@@ -108,14 +79,7 @@ With a background in climate science, I want to improve understanding of plant d
 
 **Postdoc**
 
-<img src="../images/people/yevhen-suprunenko.jpg" width="100"/>
-
-- [ys526@cam.ac.uk](mailto:ys526@cam.ac.uk)
-
-Using methods of mathematics and physics I study complex dynamics of living organisms. I am fascinated with how living systems and groups of living organisms maintain their function and their existence, despite being open systems and being subject to continuous perturbations and fluctuations. In my research, I develop models and theoretical descriptions of such dynamics, focusing on underlying mechanisms, and on the role of spatially explicit dynamics, stochasticity, and time-variability.
-
-I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Before joining Epidemiology and Modelling group of Prof Chris Gilligan, I worked as a postdoc in Nonlinear and Biomedical Physics (2011-2014, and 2017-2018, Lancaster University, UK), and in Theoretical Ecology (2014 – 2017, University of Liverpool).
-
+[<img src="../images/people/yevhen-suprunenko.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/yevhen-suprunenko)
 
 ---
 
@@ -123,18 +87,9 @@ I received my PhD in Theoretical Physics (2011, Lancaster University, UK). Befor
 
 **Postdoc**
 
-<img src="../images/people/rich-stutt.jpg" width="100"/>
+[<img src="../images/people/rich-stutt.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/richard-stutt)
 
-- [rs481@cam.ac.uk](mailto:rs481@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-1765-2633)
-
-My research is focused on large scale predictions for disease spread and management.
-
-Current Projects
-
-My current projects involve modelling the spread of the Ramorum disease epidemic (also known as Sudden Oak Death, caused by P. ramorum) in the UK, working with regulators to provide outputs including predictions of disease spread and the effect of management strategies. I am also involved in predicting the potential for future spread of Sudden Oak Death on the east coast of the USA, and looking at the effects of spread of citrus diseases at the state scale in Florida.
-
-I am part of the production and deployment of a web based interactive utility to demonstrate the effect of control in realistic landscapes and additionally the development of a generic computational framework for stochastic simulation of spatial models of epidemics and developing a flexible, computationally-efficient suite of models for the analysis of disease spread and control in heterogeneous environments.
 
 ---
 
@@ -142,31 +97,9 @@ I am part of the production and deployment of a web based interactive utility to
 
 **Postdoc**
 
-<img src="../images/people/CerianWebb.jpg" width="100"/>
+[<img src="../images/people/CerianWebb.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/cerian-webb)
 
-- [crw1005@cam.ac.uk](mailto:crw1005@cam.ac.uk)
 - [ORCID](https://orcid.org/0000-0002-0640-3666)
-
-I am a Mathematical Epidemiologist with a background in both plant and animal systems. I received a degree in Pure Mathematics from the University of York (1992) an MSc in Mathematical Biology from the University of Dundee (1993) and a PhD modelling crop growth and disease dynamics from the Department of Plant Sciences, University of Cambridge under the supervision of Professor Chris Gilligan and Dr Rik Werker. After completing my PhD I joined the veterinary epidemiology group at VLA-Weybridge where I developed models to investigate the dynamics of scrapie and likely efficacy of control policies. I have contributed to disease modelling internationally through involvement in an EU transmissible spongiform encephalopathies (TSEs) project and collaborations with Massey University, New Zealand. In 2000 I moved back to the University of Cambridge, although this time to the Vet School, as the Kirsten Rausing Research Fellow which enabled me to pursue more theoretical work investigating the role of animal movement networks in determining the dynamics of farm animal disease. 
-
-Having taken a break from research (but not from lecturing and teaching) while my daughter went through primary school, I have found myself back in Plant Sciences where I work on mathematical models for a range of tree pests and pathogens. 
-
-In addition to my research role, I lecture for the Part 1A Mathematical Biology course and am a lecturer on the Wellcome Trust 'Mathematical Models for Infectious Disease Dynamics' course. I regularly deliver courses on MATLAB for Biologists and have recently co-authored the textbook [“Introduction to MATLAB for Biologists”.](https://link.springer.com/book/10.1007/978-3-030-21337-4) 
-
-As well as my research position in this group I am the Associate Lecturer in Mathematical Biology for Newnham College, Cambridge.
-
-
-## Collaborators
-
----
-
-### Dr Marcel Meyer
-
-**Postdoc**
-
-<img src="../images/people/marcel-meyer.jpg" width="100"/>
-
-- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
 
 ---
 
@@ -175,6 +108,14 @@ As well as my research position in this group I am the Associate Lecturer in Mat
 #### Alex Ferris
 
 **Gates Intern and PhD student, Stanford University.**
+
+## Partners
+
+___
+
+<img src="../images/partners.jpg" width="1280"/>
+
+1) WAVE [Central and West African Virus Epidemiology]; 2) CIMMYT [International Maize and Wheat Improvement Centre]; 3) UK Met Office; 4) ATA [The Ethiopian Agricultural Transformation Agency]; 5) EIAR [The Ethiopian Institute of Agricultural Research; 6); FAO [Food and Agriculture Organization];  7) ARRCC [Asia Regional Resilience to a Changing Climate Programme]; 8) USDA [United States Department of Agriculture];  9) FCDO [Foreign, Commonwealth & Development Office, Gov.UK]; 10) Queensland Government [Department of Agriculture Food and Fisheries, Agri-Science Queensland]; 11)  DEFRA [Dept. for Environment, Food and Rural Affairs, Gov.UK]; 12) Dept. of Hydrology and Meteorology, Government of Nepal; 13) Ministry of Agriculture, Gov. of Ethiopia; 14) Mail [Ministry of Agriculture, Irrigation and Livestock, Afghanistan]; 15) NARC [National Agricultural Research Centre, Pakistan]; 16) Bill & Melinda Gates Foundation; 17) Pakistan Agricultural research Council; 18) DAE (Dept. of Agricultural Extension, Bangladesh); 19) Forest Research, UK; 20) Scriptoria, Sustainable Development Solutions, UK; 21) BWMRI [Bangladesh Wheat and Maize Research Institute]; 22) KALRO [Kenya Agricultural & Livestock Research Organisation]; 23) University of Queensland, Australia; 24) ARIA [Agricultural Research institute of Afghanistan]; 25) Bangladesh Meteorological Dept., Gov. of Bangladesh
 
 
 ## Former Members
@@ -324,3 +265,16 @@ As well as my research position in this group I am the Associate Lecturer in Mat
 
 
 - **Dr Alex Ferris**, Bill and Melinda Gates Foundation. Former Bioengineering PhD student, Stanford University and Bill and Melinda Gates Foundation. Modelling within-field dynamics and surveillance for cassava disease. 
+
+## Collaborators
+
+---
+
+### Dr Marcel Meyer
+
+**Postdoc**
+
+<img src="../images/people/marcel-meyer.jpg" width="100"/>
+
+- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
+

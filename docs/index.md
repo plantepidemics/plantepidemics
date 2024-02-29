@@ -4,7 +4,7 @@ We develop epidemiological models to predict the spread of plant disease epidemi
 
 Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income. 
 
-**For details of our research by theme, please [click here](research.md)**
+**For the latest list of our publications, please [visit Google Scholar.](https://scholar.google.co.uk/citations?hl=en&user=GriJOGgAAAAJ&view_op=list_works&sortby=pubdate)**
 
 <video width="100%" controls>
 <source src="images/MOV_scenario_8_case_0_job0.mp4?dl=0" type="video/mp4">

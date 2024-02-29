@@ -5,8 +5,11 @@ theme: readthedocs
 
 nav:
 - Home: index.md
-- Research: research.md
-- Interactive projects: interactive.md
-- Lab members: people.md
+- Transdisciplinary Research Programmes: 'research/transdisciplinary_research_programmes.md'
+- Multi-disciplinary Research Projects: 'research/multidisciplinary_research_programmes.md'
+- Discovery Science: 'research/discovery_science.md'
+- Computing: 'research/computing.md'
+- Impact and Engagement: 'research/impact_and_engagement.md'
+- The Team: people.md
 - News: news.md
 
