@@ -20,7 +20,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Ruairi Donnelly
+### [Dr Ruairi Donnelly](https://www.plantsci.cam.ac.uk/directory/ruairi-donnelly)
 
 **Postdoc**
 
@@ -31,7 +31,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Sally Hames
+### [Sally Hames](https://www.plantsci.cam.ac.uk/directory/sally-hames)
 
 **Group Administrator and PA**
 
@@ -39,7 +39,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Tamas Mona
+### [Dr Tamas Mona](https://www.plantsci.cam.ac.uk/directory/tamas-mona)
 
 **Postdoc**
 
@@ -49,7 +49,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Renata Retkute
+### [Dr Renata Retkute](https://www.plantsci.cam.ac.uk/directory/renata-retkute)
 
 **Postdoc**
 
@@ -58,14 +58,14 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 - [ORCID](https://orcid.org/0000-0002-3877-6440)
 
 ---
-### Dr Alison Scott-Brown
+### [Dr Alison Scott-Brown](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)
 
 [<img src="../images/people/alison_scott_brown.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)
 
 ---
 
 
-### Dr Jacob Smith
+### [Dr Jacob Smith](https://www.plantsci.cam.ac.uk/directory/jacob-smith)
 
 **Postdoc**
 
@@ -75,7 +75,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Yevhen Suprunenko
+### [Dr Yevhen Suprunenko](https://www.plantsci.cam.ac.uk/directory/yevhen-suprunenko)
 
 **Postdoc**
 
@@ -83,7 +83,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Rich Stutt
+### [Dr Rich Stutt](https://www.plantsci.cam.ac.uk/directory/richard-stutt)
 
 **Postdoc**
 
@@ -93,7 +93,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Cerian Webb
+### [Dr Cerian Webb](https://www.plantsci.cam.ac.uk/directory/cerian-webb)
 
 **Postdoc**
 
