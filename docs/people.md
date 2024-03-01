@@ -49,6 +49,14 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
+### Dr Frank Ndjomatchoua
+
+**Postdoc**
+
+<img src="../images/people/frank-ndjomatchoua.jpg" width="100"/>
+
+---
+
 ### [Dr Renata Retkute](https://www.plantsci.cam.ac.uk/directory/renata-retkute)
 
 **Postdoc**
@@ -103,13 +111,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-## Visiting Researchers
-
-#### Alex Ferris
-
-**Gates Intern and PhD student, Stanford University.**
-
-## Partners
+## Partners & Collaborators
 
 ___
 
@@ -265,16 +267,3 @@ ___
 
 
 - **Dr Alex Ferris**, Bill and Melinda Gates Foundation. Former Bioengineering PhD student, Stanford University and Bill and Melinda Gates Foundation. Modelling within-field dynamics and surveillance for cassava disease. 
-
-## Collaborators
-
----
-
-### Dr Marcel Meyer
-
-**Postdoc**
-
-<img src="../images/people/marcel-meyer.jpg" width="100"/>
-
-- [mm2086@cam.ac.uk](mailto:mm2086@cam.ac.uk)
-
