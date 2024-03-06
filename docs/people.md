@@ -1,6 +1,6 @@
 ## Current Members
 
-### Professor Chris Gilligan
+<span style="font-size:16pt;font-weight:bold">Professor Chris Gilligan</span>
 
 **Head of group**
 
@@ -12,7 +12,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Lawrence Bower](https://www.plantsci.cam.ac.uk/directory/lawrence-bower)
+<span style="font-size:16pt;font-weight:bold">[Lawrence Bower](https://www.plantsci.cam.ac.uk/directory/lawrence-bower)</span>
 
 **Scientific IT Developer**
 
@@ -20,7 +20,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Dr Ruairi Donnelly](https://www.plantsci.cam.ac.uk/directory/ruairi-donnelly)
+<span style="font-size:16pt;font-weight:bold">[Dr Ruairi Donnelly](https://www.plantsci.cam.ac.uk/directory/ruairi-donnelly)</span>
 
 **Postdoc**
 
@@ -31,7 +31,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Sally Hames](https://www.plantsci.cam.ac.uk/directory/sally-hames)
+<span style="font-size:16pt;font-weight:bold">[Sally Hames](https://www.plantsci.cam.ac.uk/directory/sally-hames)</span>
 
 **Group Administrator and PA**
 
@@ -39,7 +39,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Dr Tamas Mona](https://www.plantsci.cam.ac.uk/directory/tamas-mona)
+<span style="font-size:16pt;font-weight:bold">[Dr Tamas Mona](https://www.plantsci.cam.ac.uk/directory/tamas-mona)</span>
 
 **Postdoc**
 
@@ -49,7 +49,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### Dr Frank Ndjomatchoua
+<span style="font-size:16pt;font-weight:bold">Dr Frank Ndjomatchoua</span>
 
 **Postdoc**
 
@@ -57,7 +57,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Dr Renata Retkute](https://www.plantsci.cam.ac.uk/directory/renata-retkute)
+<span style="font-size:16pt;font-weight:bold">[Dr Renata Retkute](https://www.plantsci.cam.ac.uk/directory/renata-retkute)</span>
 
 **Postdoc**
 
@@ -66,14 +66,14 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 - [ORCID](https://orcid.org/0000-0002-3877-6440)
 
 ---
-### [Dr Alison Scott-Brown](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)
+<span style="font-size:16pt;font-weight:bold">[Dr Alison Scott-Brown](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)</span>
 
 [<img src="../images/people/alison_scott_brown.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)
 
 ---
 
 
-### [Dr Jacob Smith](https://www.plantsci.cam.ac.uk/directory/jacob-smith)
+<span style="font-size:16pt;font-weight:bold">[Dr Jacob Smith](https://www.plantsci.cam.ac.uk/directory/jacob-smith)</span>
 
 **Postdoc**
 
@@ -83,7 +83,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Dr Yevhen Suprunenko](https://www.plantsci.cam.ac.uk/directory/yevhen-suprunenko)
+<span style="font-size:16pt;font-weight:bold">[Dr Yevhen Suprunenko](https://www.plantsci.cam.ac.uk/directory/yevhen-suprunenko)</span>
 
 **Postdoc**
 
@@ -91,7 +91,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Dr Rich Stutt](https://www.plantsci.cam.ac.uk/directory/richard-stutt)
+<span style="font-size:16pt;font-weight:bold">[Dr Rich Stutt](https://www.plantsci.cam.ac.uk/directory/richard-stutt)<span>
 
 **Postdoc**
 
@@ -101,7 +101,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-### [Dr Cerian Webb](https://www.plantsci.cam.ac.uk/directory/cerian-webb)
+<span style="font-size:16pt;font-weight:bold">[Dr Cerian Webb](https://www.plantsci.cam.ac.uk/directory/cerian-webb)</span>
 
 **Postdoc**
 
@@ -110,15 +110,6 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 - [ORCID](https://orcid.org/0000-0002-0640-3666)
 
 ---
-
-## Partners & Collaborators
-
-___
-
-<img src="../images/partners.jpg" width="1280"/>
-
-1) WAVE [Central and West African Virus Epidemiology]; 2) CIMMYT [International Maize and Wheat Improvement Centre]; 3) UK Met Office; 4) ATA [The Ethiopian Agricultural Transformation Agency]; 5) EIAR [The Ethiopian Institute of Agricultural Research; 6); FAO [Food and Agriculture Organization];  7) ARRCC [Asia Regional Resilience to a Changing Climate Programme]; 8) USDA [United States Department of Agriculture];  9) FCDO [Foreign, Commonwealth & Development Office, Gov.UK]; 10) Queensland Government [Department of Agriculture Food and Fisheries, Agri-Science Queensland]; 11)  DEFRA [Dept. for Environment, Food and Rural Affairs, Gov.UK]; 12) Dept. of Hydrology and Meteorology, Government of Nepal; 13) Ministry of Agriculture, Gov. of Ethiopia; 14) Mail [Ministry of Agriculture, Irrigation and Livestock, Afghanistan]; 15) NARC [National Agricultural Research Centre, Pakistan]; 16) Bill & Melinda Gates Foundation; 17) Pakistan Agricultural research Council; 18) DAE (Dept. of Agricultural Extension, Bangladesh); 19) Forest Research, UK; 20) Scriptoria, Sustainable Development Solutions, UK; 21) BWMRI [Bangladesh Wheat and Maize Research Institute]; 22) KALRO [Kenya Agricultural & Livestock Research Organisation]; 23) University of Queensland, Australia; 24) ARIA [Agricultural Research institute of Afghanistan]; 25) Bangladesh Meteorological Dept., Gov. of Bangladesh
-
 
 ## Former Members
 
