@@ -5,7 +5,11 @@ theme: readthedocs
 
 nav:
 - Home: index.md
-- Transdisciplinary Research Programmes: 'research/transdisciplinary_research_programmes.md'
+- Transdisciplinary Research Programmes:
+  - Cassava: 'research/cassava.md'
+  - Wheat Rust: 'research/wheat_rust.md'
+  - Locust: 'research/locusts.md'
+  - BBTV: 'research/bbtv.md'
 - Multi-disciplinary Research Projects: 'research/multidisciplinary_research_programmes.md'
 - Discovery Science: 'research/discovery_science.md'
 - Computing: 'research/computing.md'

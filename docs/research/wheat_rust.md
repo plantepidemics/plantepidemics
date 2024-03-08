@@ -1,4 +1,12 @@
-# Wheat rust early warning system
+<span style="font-size:22pt;font-weight:bold">Wheat Rust Early Warning System</span>
+
+**Location: Asia & East africa**
+
+<img src="../../images/deposition_southasia.png" width="600"/>
+
+A daily, near real-time week long forecast of the spread of stem (Puccinia graminis), stripe
+(Puccinia striiformis), and leaf (Puccinia triticina). [Read more](wheat_rust.md).
+
 
 Wheat rust diseases are caused by airborne fungal spores and pose a major threat to food security all over the globe, especially in countries in East Africa and South Asia. New emerging strains of the disease present an intensifying risk of severe crop loss.
 
@@ -17,8 +25,6 @@ Movie below includes the Epidemiological Model outputs for the Ethiopia subdomai
 <video width="100%" controls>
 <source src="../../images/infection_ethiopia_stem_season.mp4?dl=0" type="video/mp4">
 </video>
-
-
 
 **Recent publications and presentations:**
 
@@ -43,6 +49,13 @@ graminis f. sp. tritici from Southern Africa to Australia. Phytopathology, 109(1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2H8foT7OOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
-# Funders:
+**Project members**
+
+- Dr Jake Smith
+- Dr Tamas Mona
+- Lawrence Bower
+- Dr Rich Stutt
+
+**Funders:**
+
 This work is funded by The Bill and Melinda Gates Foundation and UK Foreign, Commonwealth & Development Office for East African part of the project and by the UK Foreign, Commonwealth & Development Office for South Asian,  as part of the umbrella project: Asia Regional Resilience to a Changing Climate (ARRCC)). 
