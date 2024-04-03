@@ -1,15 +1,20 @@
-# Epidemiology and Modelling Group, <br>University of Cambridge
+<span style="font-size:16pt;font-weight:bold">Epidemiology and Modelling Group, <br>University of Cambridge</span>
 
 We develop epidemiological models to predict the spread of plant disease epidemics and to identify and optimise economically and ecologically sustainable strategies for disease management. See the [latest news](news.md) from our group.
 
 Plant disease epidemics cause major economic shocks and reductions in food production. Epidemics can be especially harmful in developing countries where communities are often highly dependant on agriculture for subsistence and household income. 
+
+For details of our research by theme, please use menu on left-hand-side
 
 **For the latest list of our publications, please [visit Google Scholar.](https://scholar.google.co.uk/citations?hl=en&user=GriJOGgAAAAJ&view_op=list_works&sortby=pubdate)**
 
 <video width="100%" controls>
 <source src="images/MOV_scenario_8_case_0_job0.mp4?dl=0" type="video/mp4">
 </video>
-*Simulated spread of CBSD from Cameroon to Nigeria. Preliminary results.*
+Figure illustrating how model outputs can be used to predict outbreaks of cassava brown streak disease integrated with a cassava-host map (Earth observation map) across Nigeria during the cassava growing season (Jan to Sept 2019). Click here.
+
+Please also see our work at the University of Cambridge
+https://www.plantsci.cam.ac.uk/research/groups/epidemiology-and-modelling
 
 # About us
 
