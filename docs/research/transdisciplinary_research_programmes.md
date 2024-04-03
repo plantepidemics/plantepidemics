@@ -1,3 +1,22 @@
+<span style="font-size:16pt;font-weight:bold">Modelling long-range atmospheric transport of crop diseases</span>
+
+Some of the greatest challenges to food production in low- and middle-income countries arise when crops are devastated 
+by the sudden outbreak of destructive migratory insects and diseases.  Pests and pathogenic spores can be channelled by 
+air streams over long distances, crossing international boundaries and continents, bringing severe consequences for crop 
+production and livelihoods in previously uninfected geographical areas.
+
+
+Forecasting risks of invasion at continental scale, requires simulation models and visualization tools for estimating 
+pest dispersal, range and intensity (spore or insect load), to forewarn national plant health agencies and enable 
+contingency plans to be implemented in advance. The challenge is the quantity of data that are involved for interpretation 
+and visualization of spatiotemporal dynamics of atmospheric transport of crop pathogens and insect pests, requiring 
+tools that are capable of processing the data in a reasonable time, so that pest and disease warnings can be rapidly 
+disseminated to regional plant health authorities, government agencies and extension services, in countries at risk. 
+
+<span style="font-size:16pt;font-weight:bold">Our team has explored how 3-D visualization technologies can link 
+time-dependant meteorological data to atmospheric transport models to produce 3-D visual representations of pest and 
+disease movements at regional and continental scales.</span>
+
 ##Cassava Responsive
 
 **Location: Sub-Saharan Africa**
