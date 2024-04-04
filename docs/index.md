@@ -11,7 +11,7 @@ For details of our research by theme, please use menu on left-hand-side
 <video width="100%" controls>
 <source src="images/MOV_scenario_8_case_0_job0.mp4?dl=0" type="video/mp4">
 </video>
-Figure illustrating how model outputs can be used to predict outbreaks of cassava brown streak disease integrated with a cassava-host map (Earth observation map) across Nigeria during the cassava growing season (Jan to Sept 2019). Click here.
+Figure above illustrating how model outputs can be used to predict outbreaks of cassava brown streak disease integrated with a cassava-host map (Earth observation map) across Nigeria during the cassava growing season (Jan to Sept 2019). Click play to view the animation.
 
 Please also see our work at the University of Cambridge
 https://www.plantsci.cam.ac.uk/research/groups/epidemiology-and-modelling

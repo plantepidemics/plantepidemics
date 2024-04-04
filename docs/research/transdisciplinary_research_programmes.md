@@ -60,6 +60,8 @@ Movie below includes the Epidemiological Model outputs for the Ethiopia subdomai
 <video width="100%" controls>
 <source src="../../images/infection_ethiopia_stem_season.mp4?dl=0" type="video/mp4">
 </video>
+Model outputs for the Ethiopia subdomain.
+
 
 **Recent publications and presentations:**
 
