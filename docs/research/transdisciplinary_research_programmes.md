@@ -53,6 +53,12 @@ Here is the schematic summary of the EWS components (see further details in [All
 
 The modelling involves a combination of meteorological and epidemiological models with additional inputs from in-country surveillance coordinated by CIMMYT. The team in Cambridge is responsible for the development and maintenance of the modelling elements of the EWS, including the adaptation of a particle dispersal model (NAME) originally developed by the UK Met Office for rust spores. The UK Met Office also provides seven-day weather forecasts for the target countries to drive the models, giving farmers a three-week window to apply fungicides to prevent rust epidemics. The models are also being used pre-season to assess risks from new races of wheat rust and to inform the selection of crop varieties likely to confer resistance.
 
+<video width="100%" controls>
+<source src="../../images/wheat_dispersal.mp4?dl=0" type="video/mp4">
+</video>
+Wheat rust predictions across sub-Saharan Africa and South Asia.
+Many factors must be considered e.g. wind-borne pathogen dispersal 
+
 [<img src="../../images/ews_compound.png" alt="EWS compound"/>](wheat_rust_resources.md)
 Example deposition (left column) and environmental suitability (right column) outputs of the model for the East Africa domain (upper row) and for the Ethiopia subdomain (lower row).
 Movie below includes the Epidemiological Model outputs for the Ethiopia subdomain.
@@ -62,6 +68,11 @@ Movie below includes the Epidemiological Model outputs for the Ethiopia subdomai
 </video>
 Model outputs for the Ethiopia subdomain.
 
+<video width="100%" controls>
+<source src="../../images/meyer_wheat.mp4?dl=0" type="video/mp4">
+</video>
+
+Visualising spore release (dispersal) from a detection site in southern Pakistan, showing time-lapse release of simulated 3D spore atmospheric transport dynamics. [Meyer et al. (2023) Atmosphere](https://www.mdpi.com/2307492)
 
 **Recent publications and presentations:**
 
@@ -107,7 +118,10 @@ Our research shows that integrated aerobiological epidemiology modelling systems
 weather events facilitate relocation of desert locust movement between Yemen over the Gulf of Aden and the East African 
 continent.
 
-<img src="../../images/3d_locusts.png"/>
+<video width="100%" controls>
+<source src="../../images/meyer_locust.mp4?dl=0" type="video/mp4">
+</video>
+
 
 Take a look at the articles:
 
