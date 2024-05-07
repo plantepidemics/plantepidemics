@@ -21,7 +21,7 @@ disease movements at regional and continental scales.</span>
 
 **Location: Sub-Saharan Africa**
 
-<img src="../../images/cbsd.jpg" alt="Cassava brown streak disease" width="400"/>
+<img src="../../images/cbsd.png" alt="Cassava brown streak disease" width="400"/>
 
 In 2004, Cassava brown streak disease (CBSD) was observed near Kampala, Uganda. Since 2004, it has spread widely throughout previously uninfected regions and threatens production in Central and West Africa. 
 
