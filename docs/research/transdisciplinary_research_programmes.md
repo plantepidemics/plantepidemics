@@ -13,25 +13,79 @@ and visualization of spatiotemporal dynamics of atmospheric transport of crop pa
 tools that are capable of processing the data in a reasonable time, so that pest and disease warnings can be rapidly 
 disseminated to regional plant health authorities, government agencies and extension services, in countries at risk. 
 
-<span style="font-size:16pt;font-weight:bold">Our team has explored how 3-D visualization technologies can link 
-time-dependant meteorological data to atmospheric transport models to produce 3-D visual representations of pest and 
-disease movements at regional and continental scales.</span>
+Our team has explored how 3-D visualization technologies can link time-dependant meteorological data to atmospheric
+transport models to produce 3-D visual representations of pest and disease movements at regional and continental scales.
 
 ##Cassava Responsive
 
 **Location: Sub-Saharan Africa**
 
-<img src="../../images/cbsd.png" alt="Cassava brown streak disease" width="400"/>
+**Developing a predictive model for an emerging epidemic on cassava in sub‑Saharan Africa**
 
-In 2004, Cassava brown streak disease (CBSD) was observed near Kampala, Uganda. Since 2004, it has spread widely throughout previously uninfected regions and threatens production in Central and West Africa. 
+<img src="../../images/cbsd.png" alt="Cassava brown streak disease" width="600"/>
 
-Our research focusses on predicting future spread and optimal management strategies to counteract spread in endemic and currently uninfected regions.
+*Cassava showing symptoms of cassava brown streak disease in leaves and tubers caused by infections of ipomoviruses.*
+
+Cassava (Manihot esculenta) is one of the most important staple food crops produced globally, primarily grown in low-input 
+subsistence farming systems in the tropics and subtropics. In Africa alone, an estimated 800 million people rely on cassava 
+for their primary calorific intake. 
+
+Cassava brown streak disease was first reported in Uganda in 2004 but has since been detected widely across countries in
+East and Central Africa, now reaching as far as the north central districts in the Democratic Republic of the Congo.
+Continued westward expansion is now a significant threat to food security and economic stability in the major
+cassava-producing regions of Central and West Africa.
+
+**Threatening food production**
+
+<img src="../../images/cassava_1.JPG" alt="Cassava crop" width="600"/>
+
+In recent years cassava production in sub-Saharan Africa has come under increasing pressure due to the rapidly expanding 
+range of cassava brown streak disease (Figure 1). The disease, which causes necrosis of the edible root tissue infected 
+by ipomoviruses, can be transmitted across cassava-growing regions in two ways. Firstly, vectored by Bemisia whitefly, 
+which feed on the aerial tissues of infected plants causing cross contamination within and between field crops. 
+Secondly, through human movement of virus-infected propagated cuttings that are traded, transported and planted for the 
+next season’s harvest.
+
+
+**Predicting epidemics**
+
+<img src="../../images/cassava_5.png" alt="Epidemic prediction" width="600"/>
+
+*Maps representing the rasterised data-driven model layers: (A) the model cassava landscape, representing the number of
+fields at a 1 km2 resolution derived from the digital resource, CassavaMap. Testing the model by (B) simulating the
+spread of cassava brown streak disease using data from 2004 to predict its range in 2017, versus (C) the actual survey
+data collected in 2017 from the Ugandan field surveys.*
+
+Landscape models capable of predicting where and when cassava brown streak disease will occur in a new region are
+essential tools for ensuring that national strategies can be prepared to mitigate the threat to cassava production
+areas. Epidemiology and Modelling Group focus on key questions to address challenges faced by national decision makers
+i) when will the virus cross international borders to arrive in unaffected countries in West Africa; ii) how can these
+disease-free countries optimise surveillance for early detection and be ready for outbreaks and iii) what strategies can
+the increasing number of disease-endemic countries use to minimise the impact on farm businesses and food security?
+Accurately predicting the arrival of a crop pest or pathogen over large regions in sub-Sahara Africa is extremely
+challenging due to the complexity of crop landscapes within and between countries. In a recent study, members of the
+Cambridge team used surveillance data for cassava brown streak disease collected by colleagues in Uganda, to design and
+validate a stochastic epidemic model of the virus, as it spread to new districts. The new model provided a framework for
+analysing the spread of cassava brown streak disease (Figure below), taking into account the variation in the
+distribution of the cassava fields and the prevalence of the whitefly vector across the Ugandan landscape.
+
+**Developing a model framework for future management strategies**
+
+Moreover, the research team designed the model to simulate the impact of planting virus-free cassava cuttings (clean
+seed programme) in localised areas around Kampala, and were able to demonstrate its use for predicting and analysing the
+impacts of disease-management scenarios. Gaining an insight into the regions threatened by epidemic outbreaks of cassava
+brown streak disease is key in supporting the chain of events that will ensure timely guidance and resources are
+available to agencies and farmers to minimise the risk of crop losses.
+
+[Godding, D., Stutt, R.O.J.H., Alicai, T., Abidrabo, P., Okao‑Okuja, G., Gilligan, C.A. (2023), Developing a predictive
+model for an emerging epidemic on cassava in sub‑Saharan Africa. Scientific Reports, 13:
+12603], (https://doi.org/10.1038/s41598-023-38819-x)
 
 **Project members**
 
+- Dr Frank Ndjomatchoua
 - Dr Rich Stutt
-- Alex Ferris
-- Professor Chris Gilligan
+- Dr Ruairi Donnelly
 
 ##Wheat Rust Early Warning System
 
@@ -40,8 +94,7 @@ Our research focusses on predicting future spread and optimal management strateg
 <img src="../../images/deposition_southasia.png" width="600"/>
 
 A daily, near real-time week long forecast of the spread of stem (Puccinia graminis), stripe
-(Puccinia striiformis), and leaf (Puccinia triticina). [Read more](wheat_rust.md).
-
+(Puccinia striiformis), and leaf (Puccinia triticina).
 
 Wheat rust diseases are caused by airborne fungal spores and pose a major threat to food security all over the globe, especially in countries in East Africa and South Asia. New emerging strains of the disease present an intensifying risk of severe crop loss.
 
@@ -131,7 +184,7 @@ of Crop Pathogens and Insect Pests.  Atmosphere, 14, 910. <https://doi.org/10.33
 Retkute, R.; Hinton, R.G.K.; Cressman, K.; Gilligan, C.A. Regional Differences in Control Operations during the 2019–2021 Desert Locust Upsurge. Agronomy 2021, 11, 2529. 
 <https://doi.org/10.3390/agronomy11122529>
 
-**Key Team members**
+**Project members**
 
 - Dr Renata Redkute
 - Dr Jacob Smith
@@ -178,7 +231,6 @@ under different farming systems.
 **Project members**
 
 - Dr Renata Retkute
-- Professor Chris Gilligan
 
 **Partners**
 
