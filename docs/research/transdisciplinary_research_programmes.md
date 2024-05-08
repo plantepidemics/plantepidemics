@@ -22,7 +22,7 @@ transport models to produce 3-D visual representations of pest and disease movem
 
 **Developing a predictive model for an emerging epidemic on cassava in sub‑Saharan Africa**
 
-<img src="../../images/cbsd.png" alt="Cassava brown streak disease" width="600"/>
+<img src="../../images/cbsd.png" alt="Cassava brown streak disease"/>
 
 *Cassava showing symptoms of cassava brown streak disease in leaves and tubers caused by infections of ipomoviruses.*
 
@@ -37,7 +37,7 @@ cassava-producing regions of Central and West Africa.
 
 **Threatening food production**
 
-<img src="../../images/cassava_1.JPG" alt="Cassava crop" width="600"/>
+<img src="../../images/cassava_1.JPG" alt="Cassava crop"/>
 
 In recent years cassava production in sub-Saharan Africa has come under increasing pressure due to the rapidly expanding 
 range of cassava brown streak disease (Figure 1). The disease, which causes necrosis of the edible root tissue infected 
@@ -49,7 +49,7 @@ next season’s harvest.
 
 **Predicting epidemics**
 
-<img src="../../images/cassava_5.png" alt="Epidemic prediction" width="600"/>
+<img src="../../images/cassava_5.png" alt="Epidemic prediction"/>
 
 *Maps representing the rasterised data-driven model layers: (A) the model cassava landscape, representing the number of
 fields at a 1 km2 resolution derived from the digital resource, CassavaMap. Testing the model by (B) simulating the
@@ -91,20 +91,33 @@ model for an emerging epidemic on cassava in sub‑Saharan Africa. Scientific Re
 
 **Location: Asia & East africa**
 
-<img src="../../images/deposition_southasia.png" width="600"/>
+<img src="../../images/deposition_southasia.png"/>
 
 A daily, near real-time week long forecast of the spread of stem (Puccinia graminis), stripe
 (Puccinia striiformis), and leaf (Puccinia triticina).
 
-Wheat rust diseases are caused by airborne fungal spores and pose a major threat to food security all over the globe, especially in countries in East Africa and South Asia. New emerging strains of the disease present an intensifying risk of severe crop loss.
+Wheat rust diseases are caused by airborne fungal spores and pose a major threat to food security all over the globe,
+especially in countries in East Africa and South Asia. New emerging strains of the disease present an intensifying risk
+of severe crop loss.
 
-As a result of the relentless efforts of many collaborating organisations (University of Cambridge, Met Office, CIMMYT, EIAR and ATA), an Early Warning System has been established to provide a daily near-real time weeklong forecast of the spread of stem (Puccinia graminis), stripe (Puccinia striiformis), and leaf (Puccinia triticina) rust in Ethiopia. The system has recently been extended to include Kenya in East Africa and Nepal and Bangladesh in South Asia (the latter in collaboration with CIMMYT-Bangladesh, NARC, BWMRI, DHM, DAE, and EMBRAPA).
+As a result of the relentless efforts of many collaborating organisations (University of Cambridge, Met Office, CIMMYT,
+EIAR and ATA), an Early Warning System has been established to provide a daily near-real time weeklong forecast of the
+spread of stem (Puccinia graminis), stripe (Puccinia striiformis), and leaf (Puccinia triticina) rust in Ethiopia. The
+system has recently been extended to include Kenya in East Africa and Nepal and Bangladesh in South Asia (the latter in
+collaboration with CIMMYT-Bangladesh, NARC, BWMRI, DHM, DAE, and EMBRAPA).
 
-Here is the schematic summary of the EWS components (see further details in [Allen-Sader et al. 2019](https://iopscience.iop.org/article/10.1088/1748-9326/ab4034)):
+Here is the schematic summary of the EWS components (see further details
+in [Allen-Sader et al. 2019](https://iopscience.iop.org/article/10.1088/1748-9326/ab4034)):
 
 <img src="../../images/EWS_flowchart_resized.PNG" alt="EWS flowchart"/>
 
-The modelling involves a combination of meteorological and epidemiological models with additional inputs from in-country surveillance coordinated by CIMMYT. The team in Cambridge is responsible for the development and maintenance of the modelling elements of the EWS, including the adaptation of a particle dispersal model (NAME) originally developed by the UK Met Office for rust spores. The UK Met Office also provides seven-day weather forecasts for the target countries to drive the models, giving farmers a three-week window to apply fungicides to prevent rust epidemics. The models are also being used pre-season to assess risks from new races of wheat rust and to inform the selection of crop varieties likely to confer resistance.
+The modelling involves a combination of meteorological and epidemiological models with additional inputs from in-country
+surveillance coordinated by CIMMYT. The team in Cambridge is responsible for the development and maintenance of the
+modelling elements of the EWS, including the adaptation of a particle dispersal model (NAME) originally developed by the
+UK Met Office for rust spores. The UK Met Office also provides seven-day weather forecasts for the target countries to
+drive the models, giving farmers a three-week window to apply fungicides to prevent rust epidemics. The models are also
+being used pre-season to assess risks from new races of wheat rust and to inform the selection of crop varieties likely
+to confer resistance.
 
 <video width="100%" controls>
 <source src="../../images/wheat_dispersal.mp4?dl=0" type="video/mp4">
@@ -113,8 +126,9 @@ Wheat rust predictions across sub-Saharan Africa and South Asia.
 Many factors must be considered e.g. wind-borne pathogen dispersal 
 
 [<img src="../../images/ews_compound.png" alt="EWS compound"/>](wheat_rust_resources.md)
-Example deposition (left column) and environmental suitability (right column) outputs of the model for the East Africa domain (upper row) and for the Ethiopia subdomain (lower row).
-Movie below includes the Epidemiological Model outputs for the Ethiopia subdomain.
+Example deposition (left column) and environmental suitability (right column) outputs of the model for the East Africa
+domain (upper row) and for the Ethiopia subdomain (lower row). Movie below includes the Epidemiological Model outputs
+for the Ethiopia subdomain.
 
 <video width="100%" controls>
 <source src="../../images/infection_ethiopia_stem_season.mp4?dl=0" type="video/mp4">
@@ -125,7 +139,8 @@ Model outputs for the Ethiopia subdomain.
 <source src="../../images/meyer_wheat.mp4?dl=0" type="video/mp4">
 </video>
 
-Visualising spore release (dispersal) from a detection site in southern Pakistan, showing time-lapse release of simulated 3D spore atmospheric transport dynamics. [Meyer et al. (2023) Atmosphere](https://www.mdpi.com/2307492)
+Visualising spore release (dispersal) from a detection site in southern Pakistan, showing time-lapse release of
+simulated 3D spore atmospheric transport dynamics. [Meyer et al. (2023) Atmosphere](https://www.mdpi.com/2307492)
 
 **Recent publications and presentations:**
 
@@ -159,7 +174,9 @@ graminis f. sp. tritici from Southern Africa to Australia. Phytopathology, 109(1
 
 **Funders:**
 
-This work is funded by The Bill and Melinda Gates Foundation and UK Foreign, Commonwealth & Development Office for East African part of the project and by the UK Foreign, Commonwealth & Development Office for South Asian,  as part of the umbrella project: Asia Regional Resilience to a Changing Climate (ARRCC)). 
+This work is funded by The Bill and Melinda Gates Foundation and UK Foreign, Commonwealth & Development Office for East
+African part of the project and by the UK Foreign, Commonwealth & Development Office for South Asian, as part of the
+umbrella project: Asia Regional Resilience to a Changing Climate (ARRCC)).
 
 ##Locust Responsive
 
@@ -178,10 +195,12 @@ continent.
 
 Take a look at the articles:
 
-Meyer M., Thurston W., Smith J.W., Schumacher A., Millington S.C., Hodson D.P., Cressman K. and Gilligan C.A. (2023), Three-Dimensional Visualization of Long-Range Atmospheric Transport
-of Crop Pathogens and Insect Pests.  Atmosphere, 14, 910. <https://doi.org/10.3390/atmos14060910>
+Meyer M., Thurston W., Smith J.W., Schumacher A., Millington S.C., Hodson D.P., Cressman K. and Gilligan C.A. (2023),
+Three-Dimensional Visualization of Long-Range Atmospheric Transport of Crop Pathogens and Insect Pests. Atmosphere, 14,
+910. <https://doi.org/10.3390/atmos14060910>
 
-Retkute, R.; Hinton, R.G.K.; Cressman, K.; Gilligan, C.A. Regional Differences in Control Operations during the 2019–2021 Desert Locust Upsurge. Agronomy 2021, 11, 2529. 
+Retkute, R.; Hinton, R.G.K.; Cressman, K.; Gilligan, C.A. Regional Differences in Control Operations during the
+2019–2021 Desert Locust Upsurge. Agronomy 2021, 11, 2529.
 <https://doi.org/10.3390/agronomy11122529>
 
 **Project members**
