@@ -49,7 +49,7 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-<span style="font-size:16pt;font-weight:bold">Dr Frank Ndjomatchoua</span>
+<span style="font-size:16pt;font-weight:bold">[Dr Frank Ndjomatchoua](https://www.plantsci.cam.ac.uk/staff/frank-thomas-ndjomatchoua)</span>
 
 **Postdoc**
 
