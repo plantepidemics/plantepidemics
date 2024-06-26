@@ -63,7 +63,7 @@ Accurately predicting the arrival of a crop pest or pathogen over large regions 
 challenging due to the complexity of crop landscapes within and between countries. In a recent study, members of the
 Cambridge team used surveillance data for cassava brown streak disease collected by colleagues in Uganda, to design and
 validate a stochastic epidemic model of the virus, as it spread to new districts. The new model provided a framework for
-analysing the spread of cassava brown streak disease (Figure below), taking into account the variation in the
+analysing the spread of cassava brown streak disease (Figure above), taking into account the variation in the
 distribution of the cassava fields and the prevalence of the whitefly vector across the Ugandan landscape.
 
 **Developing a model framework for future management strategies**
@@ -90,16 +90,13 @@ model for an emerging epidemic on cassava in sub‑Saharan Africa. Scientific Re
 
 <img src="../../images/deposition_southasia.png"/>
 
-A daily, near real-time week long forecast of the spread of stem (Puccinia graminis), stripe
-(Puccinia striiformis), and leaf (Puccinia triticina).
-
 Wheat rust diseases are caused by airborne fungal spores and pose a major threat to food security all over the globe,
 especially in countries in East Africa and South Asia. New emerging strains of the disease present an intensifying risk
 of severe crop loss.
 
 As a result of the relentless efforts of many collaborating organisations (University of Cambridge, Met Office, CIMMYT,
 EIAR and ATA), an Early Warning System has been established to provide a daily near-real time weeklong forecast of the
-spread of stem (Puccinia graminis), stripe (Puccinia striiformis), and leaf (Puccinia triticina) rust in Ethiopia. The
+spread of stem (*Puccinia graminis*), stripe (*Puccinia striiformis*), and leaf (*Puccinia triticina*) rust in Ethiopia. The
 system has recently been extended to include Kenya in East Africa and Nepal and Bangladesh in South Asia (the latter in
 collaboration with CIMMYT-Bangladesh, NARC, BWMRI, DHM, DAE, and EMBRAPA).
 
