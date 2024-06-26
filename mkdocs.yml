@@ -6,7 +6,7 @@ theme: readthedocs
 nav:
 - Home: index.md
 - Transdisciplinary Programmes: 'research/transdisciplinary_research_programmes.md'
-- Multi-disciplinary Projects: 'research/multidisciplinary_research_programmes.md'
+- Multidisciplinary Projects: 'research/multidisciplinary_research_programmes.md'
 - Discovery Science: 'research/discovery_science.md'
 - Computing: 'research/computing.md'
 - Impact and Engagement: 'research/impact_and_engagement.md'

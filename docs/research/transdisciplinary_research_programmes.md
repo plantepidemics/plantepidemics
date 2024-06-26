@@ -13,9 +13,6 @@ and visualization of spatiotemporal dynamics of atmospheric transport of crop pa
 tools that are capable of processing the data in a reasonable time, so that pest and disease warnings can be rapidly 
 disseminated to regional plant health authorities, government agencies and extension services, in countries at risk. 
 
-Our team has explored how 3-D visualization technologies can link time-dependant meteorological data to atmospheric
-transport models to produce 3-D visual representations of pest and disease movements at regional and continental scales.
-
 ##Cassava Responsive
 
 **Location: Sub-Saharan Africa**
@@ -135,6 +132,9 @@ for the Ethiopia subdomain.
 </video>
 Model outputs for the Ethiopia subdomain.
 
+Our team has explored how 3-D visualization technologies can link time-dependant meteorological data to atmospheric
+transport models to produce 3-D visual representations of pest and disease movements at regional and continental scales.
+
 <video width="100%" controls>
 <source src="../../images/meyer_wheat.mp4?dl=0" type="video/mp4">
 </video>
@@ -155,15 +155,6 @@ wheat supply. Nature Plants, 3(10), 780-786.](https://doi.org/10.1038/s41477-017
 [Visser, B., Meyer, M., Park, R. F., Gilligan, C. A., Burgin, L. E., Hort, M. C., Hodson, D. P., & Pretorius, Z. A. (2019).
 Microsatellite analysis and urediniospore dispersal simulations support the movement of Puccinia
 graminis f. sp. tritici from Southern Africa to Australia. Phytopathology, 109(1), 133-144.](https://doi.org/10.1094/PHYTO-04-18-0110-R)
-
-**Prof. Chris Gilligan’s presentation from the BGRI-2021 Workshop:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1oQVDPZsHtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-**Dr. Tamas Mona’s presentation from the BGRI-2021 Workshop:**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2H8foT7OOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Project members**
 
