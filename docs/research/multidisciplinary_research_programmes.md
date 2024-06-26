@@ -138,6 +138,6 @@ rail networks. The study also demonstrates the need for effective pest biosecuri
 transportation hubs and to consider the potential impact of species composition and distribution in an epidemiological
 context when planning future planting initiatives.
 
-[emerald ash borer](https://doi.org/10.1002/ppp3.10195)<br>
-[oak processionary moth](https://doi.org/10.1111/afe.12468)<br>
+[emerald ash borer](https://doi.org/10.1002/ppp3.10195)<br><br>
+[oak processionary moth](https://doi.org/10.1111/afe.12468)<br><br>
 [Webb, C.R., Avramidis, E., Castle, M.D., Stutt, R.O.H., Gilligan, C.A. 2023. Modelling the spread of tree pests and pathogens in urban forests. Urban Forestry & Urban Greening, 86, 128036](https://doi.org/10.1016/j.ufug.2023.128036)
