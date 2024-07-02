@@ -68,6 +68,8 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 ---
 <span style="font-size:16pt;font-weight:bold">[Dr Alison Scott-Brown](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)</span>
 
+**Research Impact Associate**
+
 [<img src="../images/people/alison_scott_brown.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/staff/dr-alison-scott-brown)
 
 ---

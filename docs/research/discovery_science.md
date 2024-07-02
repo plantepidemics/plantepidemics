@@ -1,10 +1,8 @@
 # Theoretical Vector Dynamics
 
-A New Perspective on insect transmission of cassava pathogens.
-
-Researchers in Epidemiology & Modelling show that whitefly transmission efficiency of a potentially devastating pathogen
-of cassava - a staple food-source for millions across sub-Saharan Africa – is substantially higher than previously
-thought.
+**A New Perspective on insect transmission of cassava pathogens.**<br>Researchers in Epidemiology & Modelling show that
+whitefly transmission efficiency of a potentially devastating pathogen of cassava - a staple food-source for millions
+across sub-Saharan Africa – is substantially higher than previously thought.
 
 A new approach developed by team members, using model-based Bayesian methods, to analyse access period experiments, is
 uncovering evidence for the importance of vectors of cassava viruses than previously thought. Access period experiments
@@ -13,13 +11,14 @@ involve exposure of insect vectors to infected plants for set periods of feeding
 These widely-used laboratory techniques provide insights into the role of plant-feeders in plant pathogen transmission
 to determine if they are an important target to control in order to minimise the spread of infections among crops.
 
-Two avenues of virus introduction and a major threat to cassava production
+**Two avenues of virus introduction and a major threat to cassava production**<br>Cassava mosaic begomoviruses are
+carried between host plants by Bemisia tabaci whitefly; but are also spread during cassava propagation in stem
+infection. Once cassava mosaic disease takes hold large areas of cassava can be destroyed requiring growers to source
+fresh cuttings – which may also harbour infection.
 
-Cassava mosaic begomoviruses are carried between host plants by Bemisia tabaci whitefly; but are also spread during
-cassava propagation in stem infection. Once cassava mosaic disease takes hold large areas of cassava can be destroyed
-requiring growers to source fresh cuttings – which may also harbour infection.
+**Unmasking Virus Retention Period**
 
-Unmasking Virus Retention Period
+<img src="../../images/cassava_mosaic_virus.jpg" width="500"/>
 
 Past studies had concluded that the duration of B. tabaci retention of CMBs, and infectiousness for cassava plants,
 remained relatively low, leading to conclusions that whitefly played a secondary role in production area outbreaks.
@@ -41,13 +40,15 @@ e1011291.](https://doi.org/10.1371/journal.pcbi.1011291)
 
 Developing new analytical tools for spatially explicit disease models
 
-We devise models to predict the optimal spacings of susceptible crops which will suppress the rapid spread of a
-pathogen.
+We devise models to predict the optimal spacings of susceptible crops (farm and landscape scale) which will suppress the
+rapid spread of a pathogen.
 
-This can assist farmers with making decisions on field size and spatial planting arrangement, when planting-out new
-fields and where they may wish to integrate control interventions.
+These models can be useful for developing tools that can assist farmers with making decisions on field size and spatial
+planting arrangement, when planting-out new fields and where they may wish to integrate control interventions.
 
-**Project members**
+<img src="../../images/landscape_dynamics.png" width="300"/>
+
+**For more information contact project members:**
 
 - Dr Yevhen Suprunenko
 - Professor Chris Gilligan

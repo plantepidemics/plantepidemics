@@ -22,12 +22,13 @@ regulatory and operational policies for emerging large-scale outbreaks in new ci
 Huanglongbing disease (citrus greening) moving across the Central Valley, up to 2030. These assumptions are made using
 transferable parameters from Texas and adjusting for climatic conditions in the Central Valley region.**
 
-[Nguyen V-A, Bartels DW, Gilligan CA (2023) Modelling the spread and mitigation of an emerging vector-borne pathogen: Citrus greening in the U.S. PLoS Comput. Biol. 19(6): e1010156](https://doi.org/10.1371/journal.pcbi.1010156) 
+Nguyen V-A, Bartels DW, Gilligan CA (2023) Modelling the spread and mitigation of an emerging vector-borne pathogen: Citrus greening in the U.S. PLoS Comput. Biol. 19(6): e1010156
+<https://doi.org/10.1371/journal.pcbi.1010156> 
 
 **Project members**
 
 - Viet Nguyen
-- Rich Stutt
+- Richard Stutt
 - Professor Chris Gilligan 
 
 **Avocado Sunblotch Viroid** 
@@ -96,21 +97,22 @@ pre- and post-harvest aflatoxin contamination in maize. npj Sci Food 7, 60 (
 
 The UK Government’s England Tree Action Plan (2021-2024) estimates that trees in our landscapes provide economic,
 cultural and social ecosystem services in the region of £4.9 billion per year, with a total asset value of £175 bn.
-Increased trade and climate warming have enabled new introductions from continental Europe to establish and spread into
+
+![](../../images/defra.png)
+
+**Increased trade and climate warming have enabled new introductions from continental Europe to establish and spread into
 the UK. Oak Processionary Moth, Sweet Chestnut Blight and the larger eight-toothed European spruce bark beetle are
 amongst recent introductions which, if not controlled, could have a devastating impact on forestry and tree landscapes.
 Ash die-back, now wide-spread in the UK, threatens to destroy over 80% of the 185 million ash trees. The arrival of a
 beetle the Emerald Ash Borer, which has destroyed large areas of trees across USA and European Russia, could result in
-an even greater decline of native Ash in UK. To address these issues the team at Cambridge built an epidemiological
+an even greater decline of native Ash in UK.** To address these issues the team at Cambridge built an epidemiological
 toolkit that helps policymakers predict the status and future spread of tree diseases. Their models have been used to
 inform ministerial decisions on strategies such as the imposition of an import bans to reduce the risk of new
 introductions, surveillance strategies to support outbreak management and evaluation of potential control strategies to
 optimise the use of limited resources.
 
-Predicting threats to food security (cam.ac.uk)
-<https://doi.org/10.1002/ppp3.10195>
-<https://doi.org/10.1111/afe.12468>
-<https://www.plantsci.cam.ac.uk/research/groups/epidemiology-and-modelling>
+Project areas: Ash dieback, emerald ash borer, Ips typographus, oak processionary moth, Phytophora ramorum, oriental
+chestnut gall wasp, sweet chestnut blight.
 
 **Project members**
 
@@ -118,6 +120,8 @@ Predicting threats to food security (cam.ac.uk)
 - Cerian Webb
 - Richard Stutt
 - Yevhen Suprunenko
+
+**Predicting the spread of invasive pests and pathogens through urban forests** 
 
 <img src="../../images/urban_park.jpg" alt="park" width="600"/>
 
@@ -128,8 +132,6 @@ case of Dutch Elm Disease, saw the devastating loss of a single species from urb
 This project examined how human activity and tree distribution across private and publicly owned land might affect the
 rate and direction of spread of invasive pests and pathogens.
 
-![](../../images/defra.png)
-
 ![](../../images/tree_pests.png)
 
 The modelling results have important implications for the development of strategies to manage and control outbreaks,
@@ -138,6 +140,13 @@ rail networks. The study also demonstrates the need for effective pest biosecuri
 transportation hubs and to consider the potential impact of species composition and distribution in an epidemiological
 context when planning future planting initiatives.
 
-[emerald ash borer](https://doi.org/10.1002/ppp3.10195)<br><br>
-[oak processionary moth](https://doi.org/10.1111/afe.12468)<br><br>
-[Webb, C.R., Avramidis, E., Castle, M.D., Stutt, R.O.H., Gilligan, C.A. 2023. Modelling the spread of tree pests and pathogens in urban forests. Urban Forestry & Urban Greening, 86, 128036](https://doi.org/10.1016/j.ufug.2023.128036)
+Emerald Ash Borer <https://doi.org/10.1002/ppp3.10195><br><br>
+Oak Processionary Moth <https://doi.org/10.1111/afe.12468><br><br>
+Webb, C.R., Avramidis, E., Castle, M.D., Stutt, R.O.H., Gilligan, C.A. 2023. Modelling the spread of tree pests and
+pathogens in urban forests. Urban Forestry & Urban Greening, 86, 128036 <https://doi.org/10.1016/j.ufug.2023.128036>
+
+Project members 
+
+- Cerian Webb 
+- Richard Stutt 
+- Chris Gilligan 

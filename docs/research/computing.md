@@ -35,7 +35,8 @@ Developing advanced integrated systems with:
 
 ## Webidemics
 
-‘Webidemics is an interactive public engagement tool designed to introduce the non-specialist to the concepts and purpose of epidemiological modelling. The on-line tool was published in 2015, with a second version released in 2019.’ 
+Webidemics is an interactive public engagement tool designed to introduce the non-specialist to the concepts and purpose
+of epidemiological modelling. The on-line tool was published in 2015, with a second version released in 2019.
 
 Quickstart - simply click "Run" and watch an epidemic materialise. 
 
@@ -51,18 +52,18 @@ Quickstart - simply click "Run" and watch an epidemic materialise.
 
 ## Phytofighter
 
-Phytofighter is an interactive public engagement tool designed for students in higher education to introduce the concepts and purpose of epidemiological modelling.
+Phytofighter is an interactive public engagement tool designed for students in higher education to introduce the
+concepts and purpose of epidemiological modelling.
 
 [![](../../images/phytofighter.png)](http://phytofighter.com/)
 
 [http://phytofighter.com/](http://phytofighter.com/)
 
-**Creayted by team members**
+**Created by team members**
 
 - Dr Rich Stutt
 - Dr Andrew Craig
 - Dr James Elderfield
 - Elliott Bussell
 - David Godding
-
 (2016) Science Museum Lates exhibition
