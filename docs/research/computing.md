@@ -27,7 +27,7 @@ Developing advanced integrated systems with:
 
 **Project members**
 
-- Dr Rich Stutt
+- Dr Richard Stutt
 - Lawrence Bower
 - Professor Chris Gilligan
 
@@ -47,7 +47,7 @@ Quickstart - simply click "Run" and watch an epidemic materialise.
 **Project members**
 
 - Dr Nik Cunniffe
-- Dr Rich Stutt
+- Dr Richard Stutt
 - Lawrence Bower
 
 ## Phytofighter
@@ -59,11 +59,5 @@ concepts and purpose of epidemiological modelling.
 
 [http://phytofighter.com/](http://phytofighter.com/)
 
-**Created by team members**
-
-- Dr Rich Stutt
-- Dr Andrew Craig
-- Dr James Elderfield
-- Elliott Bussell
-- David Godding
-(2016) Science Museum Lates exhibition
+*Created by team members Dr Richard Stutt Dr Andrew Craig Dr James Elderfield Elliott Bussell David Godding (2016)
+Science Museum Lates exhibition*
