@@ -172,7 +172,17 @@ umbrella project: Asia Regional Resilience to a Changing Climate (ARRCC)).
 <img src="../../images/locusts2.png"/>
 <img src="../../images/locusts3.png"/>
 
-Our research shows that integrated aerobiological epidemiology modelling systems are advantageous  for explaining how 
+Desert locust (Schistocerca gregaria) is one of the most dangerous migratory pests for millions of subsistence farmers
+across sub-Saharan Africa, making control a priority for food security in many regions. We developed a novel integrated
+modelling framework for use in predicting desert locust populations giving government agencies, agronomists and farmers
+time to prepare. The framework integrates selection of breeding sites, maturation through egg, hopper and adult stages
+and swarm disperse in search of areas suitable for feeding and breeding. Using a combination of concepts from
+epidemiological modelling, weather and environment data, together with an atmospheric transport model for swarm movement
+we provide a tool to forecast short-and long-term swarm movements. As climate change leads to new areas being under
+threat from desert locust invasions, our approach offers a practical starting point for use in tackling upcoming
+upsurges.
+
+Below, our research shows that integrated aerobiological epidemiology modelling systems are advantageous  for explaining how 
 weather events facilitate relocation of desert locust movement between Yemen over the Gulf of Aden and the East African 
 continent.
 
