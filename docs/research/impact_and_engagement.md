@@ -24,34 +24,34 @@ Figure source: Allen-Sader et al. (2019) Environment Research Letters
 
 # Outreach
 
-*Renata Redkute: Field visits with project partners, commercial banana plantation in Benin 2024.* 
 
 <img src="../../images/outreach1.jpg"  width="500"/>
 
-*Richard Stutt: Presentation to members of the WAVE consortium and international government officials, WAVE headquarters, Cote d’Ivoire, 2024* 
+*Renata Retkute: Field visits with project partners, commercial banana plantation in Benin 2024.*
 
 <img src="../../images/outreach2.jpg"  width="500"/>
 
-*Jacob Smith: Training surveillance pathologists, CIMMYT, Nepal, 2024* 
+*Richard Stutt: Presentation to members of the WAVE consortium and international government officials, WAVE headquarters, Cote d’Ivoire, 2024*
 
 <img src="../../images/outreach3.jpg"  width="500"/>
 
-*Tamas Mona: Training surveillance pathologists, CIMMYT, Nepal, 2024* 
+*Jacob Smith: Training surveillance pathologists, CIMMYT, Nepal, 2024*
 
 <img src="../../images/outreach4.jpg"  width="500"/>
 
-*Jacob Smith & Tamas Mona: Field visit with project partners, CIMMYT, Nepal 2024* 
+*Tamas Mona: Training surveillance pathologists, CIMMYT, Nepal, 2024*
 
 <img src="../../images/outreach5.jpg"  width="500"/>
 
-*Cerian Webb: Festival of Plants, University of Cambridge, 2023* 
+*Jacob Smith & Tamas Mona: Field visit with project partners, CIMMYT, Nepal 2024*
 
 <img src="../../images/outreach7.jpg"  width="500"/>
 
-*Ruairi Donnelly & Group members: Research Day, University of Cambridge 2022* 
+*Cerian Webb: Festival of Plants, University of Cambridge, 2023*
 
 <img src="../../images/outreach6.jpg"  width="500"/>
 
+*Ruairi Donnelly & Group members: Research Day, University of Cambridge 2022*
 
 # Training presentations
 

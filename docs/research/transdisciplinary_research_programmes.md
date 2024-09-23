@@ -203,7 +203,7 @@ Retkute, R.; Hinton, R.G.K.; Cressman, K.; Gilligan, C.A. Regional Differences i
 
 **Project members**
 
-- Dr Renata Redkute
+- Dr Renata Retkute
 
 ##Banana Bunchy Top Disease (BBTD) Responsive
 
