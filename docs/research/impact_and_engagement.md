@@ -61,11 +61,9 @@ The video was produced by Epidemiology and Modelling group members Richard Stutt
 With grateful thanks to all our DEWAS collaborators including CIMMYT,
 Bangladesh Wheat and Maize Research Institute (BWMRI), Department of Agriculture Extension Khyber Pukhtunkhwa, Nepal Agriculture Research Council, Pakistan Agricultural Research Council (PARC), Ethiopian Institute of Agricultural Research, Ethiopian Agricultural Transformation Institute (ATI), Kenya Agricultural and Livestock Research Organization (KALRO), Agricultural Research Council, Aarhus University & John Innes Centre
 
-<iframe width="560" height="315" src="https://youtu.be/gNoG526ueiA?si=F71H1ZHRJf7e6cdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gNoG526ueiA?si=4imgSLdRJXMlqbra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Cambridge scientists use cutting-edge models to predict wheat disease outbreaks, empowering small-holder farmers across Africa and South Asia with actionable forecasts to protect their crops. This early warning system, developed with global partners, already supports hundreds of thousands of farmers and is scaling to reach millions, combining world-class science with local training to build resilience and transform lives worldwide.*
-
-**Borlaug Global Rust Initiative (BGRI) workshop, Cornell University, 6-8th October 2021.** 
 
 **Title - Models for Emerging Epidemics: How can modelling help prevent rust epidemics? Professor Chris Gilligan,
 Epidemiology & Modelling Group:**
