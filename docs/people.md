@@ -12,14 +12,6 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 ---
 
-<span style="font-size:16pt;font-weight:bold">[Lawrence Bower](https://www.plantsci.cam.ac.uk/directory/lawrence-bower)</span>
-
-**Scientific IT Developer**
-
-[<img src="../images/people/lawrence_bower2.jpg" width="100"/>](https://www.plantsci.cam.ac.uk/directory/lawrence-bower)
-
----
-
 <span style="font-size:16pt;font-weight:bold">[Dr Ruairi Donnelly](https://www.plantsci.cam.ac.uk/directory/ruairi-donnelly)</span>
 
 **Postdoctoral Research Associate **
@@ -260,3 +252,5 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 
 - **Dr Alex Ferris**, Bill and Melinda Gates Foundation. Former Bioengineering PhD student, Stanford University and Bill and Melinda Gates Foundation. Modelling within-field dynamics and surveillance for cassava disease. 
+- 
+- **Lawrence Bower**, Scientific IT developer. 
