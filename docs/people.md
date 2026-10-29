@@ -252,5 +252,6 @@ For more details, [please visit the departmental website.](https://www.plantsci.
 
 
 - **Dr Alex Ferris**, Bill and Melinda Gates Foundation. Former Bioengineering PhD student, Stanford University and Bill and Melinda Gates Foundation. Modelling within-field dynamics and surveillance for cassava disease. 
-- 
+
+
 - **Lawrence Bower**, Scientific IT developer. 
